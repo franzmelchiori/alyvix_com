@@ -1,7 +1,13 @@
 absolute_urls: false
+timezone: 'Europe/Rome'
+
+languages:
+  supported: [en]
+  include_default_lang: false
 
 home:
   alias: '/home'
+  hide_in_urls: true
 
 pages:
   theme: quark
@@ -40,6 +46,12 @@ debugger:
   twig: true
   shutdown:
     close_connection: true
+
+images:
+  default_image_quality: 80
+  cache_all: false
+
 gpm:
   releases: stable
   verify_peer: true
+  official_gpm_only: true
