@@ -1,31 +1,31 @@
 ---
-title: Homepage Highlights
+title: Alyvix 
 menu: Highlights
 class: offset-box
 features:
 	- header: Crazy Fast
-	  text: "Performance is not just an afterthought, we baked it in from the start!"
+	  text: "Measure application availability and responsiveness of your business-critical applications, no matter if they are connected through the Internet or not. Examples can be desktop, web and emulated mobile applications"
 	  icon: fa fa-fighter-jet
     - header: Easy to build
-      text: "Simple text files means Grav is trivial to install, and easy to maintain"
+      text: "Continuously track application performance: ongoing time series charts highlight latency spiked and downtimes. Reports keep you up-to-date about critical events"
       icon: fa fa-database
     - header: Awesome Technology
-      text: "Grav employs best-in-class technologies such as Twig, Markdown &amp; Yaml"
+      text: "Test end-user experience to assess users’ perceived quality of your internal and external IT services, e.g. to quantify the time your employees waste waiting for application responses"
       icon: fa fa-cubes
     - header: Super Flexible
-      text: "From the ground up, with many plugin hooks, Grav is extremely extensible"
+      text: "Monitor use cases on virtualized applications like MS Office Suite, MS Dynamics AX, CRM and NAV, SAP clients and NetWeaver through RDP, VMWare clients, RDWebAccess, Citrix, etc"
       icon: fa fa-object-ungroup
     - header: Abundant Plugins
-      text: "A vibrant developer community means 200+ plugins available to download"
+      text: "Monitor use cases on black boxed applications for which APIs are not available or on applications that are built with unknown technologies"
       icon: fa fa-puzzle-piece
     - header: Free / Open Source
-      text: "Grav is an open source project, so you can spend your money on other stuff"
+      text: "Distribute a test case on multiple cloned probes to continuously monitor the same test case from different locations on the network"
       icon: fa fa-money
            
     
 ---
 
-# Why Grav?
-## **build sites better**
+# Why Alyvix?
+## **easy and fast way to test your applications**
 
-We believe the best recipe to make something great, is to bake with [quality ingredients](#) and add dollops of [cool stuff](#). 
+It provides an ergonomic GUI tool to build your test cases and a simple CLI robot to execute them.

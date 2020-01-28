@@ -2,6 +2,7 @@
 title: Homepage Features
 menu: Features
 class: small
+published: false
 features:
     - header: Markdown Syntax
       icon: fa fa-text-height
