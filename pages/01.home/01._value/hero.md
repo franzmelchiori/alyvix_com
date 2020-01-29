@@ -2,11 +2,11 @@
 title: Alyvix Value
 menu: Top
 hero_classes: parallax text-light
-hero_image: alyvix_value_clever_boxing_20200129.jpg
+hero_image: alyvix_value_clever_clicking_20200129.jpg
 ---
 
 # Visual Monitoring
-## Eyes and hands like a human. With a stopwatch.
+## Clever Clicking
 
 Test any application and assess the end-user experience that provides.
 

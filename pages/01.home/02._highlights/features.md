@@ -25,7 +25,7 @@ features:
     
 ---
 
-# Why Alyvix?
-## **easy and fast way to test your applications**
+# Eyes and hands like a human.
+## **With a stopwatch.**
 
 It provides an ergonomic GUI tool to build your test cases and a simple CLI robot to execute them.
