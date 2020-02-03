@@ -6,6 +6,6 @@ image_align: left
 
 ## **Test Case** Building
 
-After having define each transaction of an end-user workflow you can compose its final test case as the proper sequence of visual transactions.
+Having created a set of Alyvix Objects, you can drag and drop them into the scripting panel in order to compose the desired end-user workflow, creating an Alyvix visual test case consisting of a sequence of visual transactions. Conditionals and loops help implement more complex logic.
 
 [Find out more..](https://alyvix.com/doc/3/?classes=btn,btn-primary,btn-lg)

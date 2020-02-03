@@ -6,6 +6,6 @@ image_align: left
 
 ## **Performance** Monitoring
 
-No longer are you a _help captive by your CMS_. Grav **empowers** you to create anything from a [simple one-page site](https://demo.getgrav.org/onepage-skeleton?target=_blank), to a [beautiful blog](https://demo.getgrav.org/blog-skeleton?target=_blank), to a powerful and feature-rich [shop site](https://demo.getgrav.org/shop-skeleton?target=_blank), to pretty much anything you can dream up!
+The end goal is showing trends over time of your end-user workflow performance. This requires you to schedule test cases regularly and continuously, integrating their output into your own monitoring system and, finally, analysing latency and downtime to assess IT service quality. Contact us if you need support in test case building, its integration or its maintenance.
 
 [Find out more..](https://alyvix.com/doc/3/?classes=btn,btn-primary,btn-lg)

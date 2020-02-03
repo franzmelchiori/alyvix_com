@@ -14,8 +14,8 @@ features:
 	  icon: fa fa-phone
 ---
 
-# How could we help you?
-## Do not hesitate to contact us.
+# How can we help you?
+## Don't hesitate to contact us
 
 We provide professional commercial support for all belongings around synthetic application monitoring with Alyvix (info, subscriptions, training, demo). The support can be provided in three languages: German, English, and Italian.
 
