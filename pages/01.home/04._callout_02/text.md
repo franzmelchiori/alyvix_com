@@ -8,4 +8,4 @@ image_align: left
 
 Having created a set of Alyvix Objects, you can drag and drop them into the scripting panel in order to compose the desired end-user workflow, creating an Alyvix visual test case consisting of a sequence of visual transactions. Conditionals and loops help implement more complex logic.
 
-[Find out more..](https://alyvix.com/doc/3/?classes=btn,btn-primary,btn-lg)
+[Find out more..](https://alyvix.com/learn/test_case_building/editor_scripting_panel.html?classes=btn,btn-primary,btn-lg&target=_blank)
