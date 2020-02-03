@@ -2,41 +2,30 @@
 title: Homepage Features
 menu: Features
 class: small
-published: false
+published: true
 features:
-    - header: Markdown Syntax
-      icon: fa fa-text-height
-    - header: Twig Templating
-      icon: fa fa-code
-    - header: Smart Caching
-      icon: fa fa-rocket
-    - header: Flexible Taxonomies
-      icon: fa fa-tags
-    - header: Simple Install
-      icon: fa fa-cloud-download
-    - header: Powerful Plugins
-      icon: fa fa-cogs
-    - header: Intuitive UI
-      icon: fa fa-dashboard
-    - header: File-Based
-      icon: fa fa-file-text
-    - header: Multi-Language
-      icon: fa fa-language
-    - header: Users & Roles
-      icon: fa fa-users  
-    - header: Image Processing
-      icon: fa fa-image   
-    - header: Documentation
-      icon: fa fa-bookmark
-    - header: On Github
-      icon: fa fa-github
-    - header: Responsive Design
-      icon: fa fa-html5
-    - header: CLI Power
-      icon: fa fa-terminal  
-    - header: Awesomazing
-      icon: fa fa-heart-o
+    - header: Point'n'click definition and setup of user transactions
+      icon: fa fa-hand-pointer-o
+    - header: Visual autocontour selection of transaction components
+      icon: fa fa-object-group
+    - header: Specific image, rectangle, text detection settings
+      icon: fa fa-picture-o
+    - header: Regex and maps logics for visual scraping of text strings
+      icon: fa fa-font
+    - header: Drag'n'drop test case building, no coding required
+      icon: fa fa-arrows
+    - header: Critical, warning and timeout click-to-appearance thresholds
+      icon: fa fa-thermometer-half
+    - header: Fail, exit and custom test case sections of transactions
+      icon: fa fa-fire-extinguisher
+    - header: Human readable and single file as a visual test case
+      icon: fa fa-file-code-o
+    - header: Computer vision algorithms to run end-user bots
+      icon: fa fa-video-camera
+    - header: Precise and accurate measures as CLI output
+      icon: fa fa-terminal
+    - header: Demonstrable and indisputable screenshots as output
+      icon: fa fa-file-image-o
+    - header: FLOSS licensed under GNU General Public License v3
+      icon: fa fa-certificate
 ---
-
-# Stuffed Full of Features
-## **Check out small smattering...**

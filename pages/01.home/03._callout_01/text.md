@@ -6,6 +6,6 @@ image_align: right
 
 ## **Visual Transaction** Definition
 
-No longer are you a _help captive by your CMS_. Grav **empowers** you to create anything from a [simple one-page site](https://demo.getgrav.org/onepage-skeleton?target=_blank), to a [beautiful blog](https://demo.getgrav.org/blog-skeleton?target=_blank), to a powerful and feature-rich [shop site](https://demo.getgrav.org/shop-skeleton?target=_blank), to pretty much anything you can dream up!
+When you want to automate an end-user workflow the first step is to visually define its transactions and Alyvix Editor gives you all the proper tools. You can point'n'click to select some peculiar graphics of an application state creating an Alyvix Object. For each component you can set up its type (image, rectangle or text), its interactions (mouse and keyboard) and its click-to-appearance time thresholds (warning, critical, timeout).
 
 [Find out more..](https://alyvix.com/doc/3/?classes=btn,btn-primary,btn-lg)

@@ -1,6 +1,6 @@
 ---
-title: Alyvix Home
-menu: Product
+title: Alyvix Service
+menu: Service
 onpage_menu: false
 body_classes: title-h1h2 header-transparent
 
