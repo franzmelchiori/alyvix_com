@@ -4,22 +4,22 @@ menu: Highlights
 class: offset-box
 features:
 	- header: Visual Test Cases
-	  text: "Visually define end-user workflows: Alyvix provides its editor to build test cases in a visual way, interaction after interaction"
+	  text: "Visually define end-user workflows: Alyvix Editor lets you build test cases in a visual way, interaction after interaction"
 	  icon: fa fa-eye
     - header: Any Windows Application
-      text: "Automate any GUI-based (even streamed) Windows application: Alyvix works with graphics passing on screen frames"
+      text: "Automate any GUI-based (even streamed) Windows application: Alyvix works by processing screen frames, without being hardwired to APIs"
       icon: fa fa-window-maximize
 	- header: End-User Bots
-	  text: "Run visual test cases that interact with a machine like a real user would: Alyvix operates with mouse and keyboard as usual"
+	  text: "Run visual test cases that interact with a machine just as a real user would: Alyvix uses mouse and keyboard like a person"
 	  icon: fa fa-user-o
     - header: Transaction Measurement
-      text: "Measure transaction time click-to-appearance: Alyvix measures how long each transaction takes to show after the previous interaction"
+      text: "Measure transaction time click-to-appearance: Alyvix measures how long each transaction takes to complete after the last interaction"
       icon: fa fa-clock-o
     - header: Latency and Downtime
-      text: "Record availability and responsiveness of each transaction: Alyvix allows to monitor the goodness of end-user experiences"
+      text: "Record the availability and responsiveness of each transaction: Alyvix allows you to monitor the performance of end-user experiences"
       icon: fa fa-hourglass-half
     - header: IT Service Quality
-      text: "Report whenever the visual response times out: Alyvix produces annotated screenshots providing demonstrable and indisputable proofs"
+      text: "Provide demonstrable and indisputable proof with annotated screenshots that Alyvix produces whenever the visual response times out"
       icon: fa fa-thumbs-o-up
 ---
 
