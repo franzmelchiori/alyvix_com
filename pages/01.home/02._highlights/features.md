@@ -16,7 +16,7 @@ features:
       text: "Measure transaction time click-to-appearance: Alyvix measures how long each transaction takes to show after the previous interaction"
       icon: fa fa-clock-o
     - header: Latency and Downtime
-      text: "Record availability and responsiveness of each transaction: Alyviv allows to monitor the goodness of end-user experiences"
+      text: "Record availability and responsiveness of each transaction: Alyvix allows to monitor the goodness of end-user experiences"
       icon: fa fa-hourglass-half
     - header: IT Service Quality
       text: "Report whenever the visual response times out: Alyvix produces annotated screenshots providing demonstrable and indisputable proofs"
