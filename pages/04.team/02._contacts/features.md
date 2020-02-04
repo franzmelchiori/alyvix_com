@@ -17,6 +17,4 @@ features:
 # How can we help you?
 ## Don't hesitate to contact us
 
-We provide professional commercial support for all belongings around synthetic application monitoring with Alyvix (info, subscriptions, training, demo). The support can be provided in three languages: German, English, and Italian.
-
-Never hesitate to directly contact us – we’ll try to answer you as quickly as possible!
+Get in touch with us for any further information or clarification (candid feedback or suggestions are welcome too). You can also request a remote demo session on our cloud machines. We speak English, German and Italian.

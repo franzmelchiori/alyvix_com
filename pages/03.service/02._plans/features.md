@@ -16,3 +16,8 @@ features:
 
 # Integrate Visual Checks
 ## Enhance your monitoring
+
+<!---
+- info, subscriptions, training
+- German, English, and Italian
+--->
