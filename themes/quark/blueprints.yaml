@@ -51,7 +51,7 @@ form:
       type: file
       label: Custom Logo
       size: large
-      destination: 'theme://images/logo/alyvix-logo.svg'
+      destination: 'theme://images/logo/alyvix_logo.svg'
       multiple: false
       markdown: true
       description: Will be used instead of default logo `theme://images/grav-logo.svg`
@@ -62,7 +62,7 @@ form:
       type: file
       label: Mobile Custom Logo
       size: large
-      destination: 'theme://images/logo/alyvix-logo.svg'
+      destination: 'theme://images/logo/alyvix_logo.svg'
       multiple: false
       accept:
         - image/*

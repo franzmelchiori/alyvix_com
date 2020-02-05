@@ -1,9 +1,12 @@
 ---
 title: Alyvix Value
 menu: Top
-hero_classes: text-dark overlay-light parallax
+hero_classes: parallax text-light
 hero_image: alyvix_value.jpg
 ---
+<!--
+hero_classes: text-dark overlay-light parallax
+-->
 
 # Visual Monitoring
 ## Clever Clicking

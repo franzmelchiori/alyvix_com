@@ -11,6 +11,6 @@ spectre:
   exp: false
   icons: false
 custom_logo:
-    - name: 'alyvix-logo.svg'
+    - name: 'alyvix_logo.svg'
 custom_logo_mobile:
-    - name: 'alyvix-logo.svg'
+    - name: 'alyvix_logo.svg'
