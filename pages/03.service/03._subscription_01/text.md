@@ -8,5 +8,6 @@ image_align: right
 Perfect solution for getting started
 
 **1 probe**
+3 test cases
 
-[€2.860/yr](mailto:info@alyvix.com?classes=btn,btn-primary,btn-lg&target=_blank)
+[**€2.860/yr** fill the request form](mailto:info@alyvix.com?classes=btn,btn-primary,btn-lg&target=_blank)

@@ -8,5 +8,6 @@ image_align: right
 Ideal for growing businesses
 
 **5 probes**
+15 test cases
 
-[€6.600/yr](mailto:info@alyvix.com?classes=btn,btn-primary,btn-lg&target=_blank)
+[**€6.600/yr** fill the request form](mailto:info@alyvix.com?classes=btn,btn-primary,btn-lg&target=_blank)
