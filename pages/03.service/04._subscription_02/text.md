@@ -8,6 +8,6 @@ image_align: right
 
 A full-fledged visual monitoring solution for business critical workflows
 
-Service and support for **5 probe** and **15 test cases**
+Service and support for **5 probes** and **15 test cases**
 
 [**€6.600/yr** contact us](mailto:info@alyvix.com?classes=btn,btn-primary,btn-lg&target=_blank)
