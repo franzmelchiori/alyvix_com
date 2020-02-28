@@ -17,7 +17,17 @@ features:
 # Integrate Visual Checks
 ## Enhance your monitoring
 
+We can provide you with services to meet the following crucial aspects of
+visual monitoring:
+* Manage active Windows sessions and keep them alive to properly run contained
+  Alyvix visual test cases
+* Schedule those test cases with optimal turnaround time to improve transaction
+  monitoring efficiency and resource effectiveness
+* Collect the entire history of transaction measures over a given time range
+* Interface with any monitoring system
+* Support your production systems and help you edit visual test cases
+
 <!---
-- info, subscriptions, training
-- German, English, and Italian
+- info, subscriptions
+- English, Italian, German
 --->
