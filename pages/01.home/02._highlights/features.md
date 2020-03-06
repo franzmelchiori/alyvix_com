@@ -25,10 +25,7 @@ features:
 
 # Eyes and hands like a human.
 ## **With a stopwatch. And tireless.**
-<!--
-Relentless
--->
 
-**Synthesize end-user bots** visually interacting with any Windows application like ERPs or your favourite browser. Run and measure business-critical workflows like a human would, but continuously.
+**Build end-user bots** visually interacting with any Windows application like ERPs or your favourite browser. Run and measure business-critical workflows like a human would, but continuously.
 
 **Quantify end-user experiences**: Alyvix records the click-to-appearance responsiveness of each transaction. Report IT service quality to support technical and business actions.
