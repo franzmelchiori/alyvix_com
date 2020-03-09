@@ -28,4 +28,4 @@ features:
 
 **Build end-user bots** visually interacting with any Windows application like ERPs or your favourite browser. Run and measure business-critical workflows like a human would, but continuously.
 
-**Quantify end-user experiences**: Alyvix records the click-to-appearance responsiveness of each transaction. Report IT service quality to support technical and business actions.
+**Measure end-user experiences**: Alyvix records the click-to-appearance responsiveness of each transaction. Report IT service quality to support technical and business actions.
