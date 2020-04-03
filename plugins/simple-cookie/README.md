@@ -37,6 +37,7 @@ Here is the default configuration and an explanation of available options:
 enabled: true
 custom: false
 position: bottom-right
+compliance: info
 palette: gray
 ```
 
@@ -53,6 +54,12 @@ You have the following options to customize texts, colors, styles positions and 
 # - bottom-left: Banner is floating on the left side, auto width
 # - bottom-right (default): Banner is floating on the right side, auto width
 position: bottom-right
+
+# Indicates which mode the popup should have.
+# - info: Standard mode of the banner, show's only one button
+# - opt-in: Opt-In mode, shows two buttons (you have to use some custom configurations for opt-in)
+# - opt-out: Opt-Out mode, shows two buttons (you have to use some custom configurations for opt-out)
+compliance: info
 
 # Indicates which style the cookie banner has.
 # - block: Got a block style, filled button and no border radius
@@ -81,10 +88,15 @@ banner_accept: ''
 # The text for the policy link.
 banner_policy: ''
 
+# Enable/Disable the custom configuration.
+# - Should be used for advanced Opt-In/Opt-Out configurations.
+# - If enabled, the custom config will be merged with the default options.
+custom: false
+
 # Insert custom code for the cookieconsent plugin.
 # - Can be used for advanced Opt-In/Opt-Out configurations.
 # - Depends on the default config 'custom'.
-custom_config:
+custom_config: ''
 ```
 
 
@@ -92,11 +104,14 @@ custom_config:
 
 The plugin is based on the [CookieConsent](https://cookieconsent.osano.com/) JS-libary which is developed by [Osano](https://www.osano.com/).
 
+## Contributing
+
+If you want to contribute create an issue or an pull request.  
+I appreciate every single help!
 
 ## Other
 
 If you got some problems, improvements or changes let me know.  
-I appreciate every single help!
 
 
 ```
