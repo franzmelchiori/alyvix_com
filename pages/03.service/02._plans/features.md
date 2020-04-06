@@ -30,7 +30,7 @@ visual monitoring:
 
 **Support** your production systems and help you edit visual test cases
 
-<!---
+<!--
 - info, subscriptions
 - English, Italian, German
---->
+-->
