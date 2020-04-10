@@ -1,5 +1,5 @@
 enabled: true               # Global enable/disable the entire plugin
-trackingId: "UA-163210013-1" # GA Tracking ID `REQUIRED`
+trackingId: "UA-3503024-4"  # GA Tracking ID `REQUIRED`
 
 position: "head"            # Code Position in the HTML document
 objectName: "ga"            # Name for the global (ga) object
