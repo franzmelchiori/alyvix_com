@@ -1,6 +1,6 @@
 ---
 title: NerdIO
-date: 17:34 07/04/2017 
+date: 12:00 04/23/2020 
 
 hero_classes: parallax text-light
 hero_image: alyvix_success_story_nerdio.png
