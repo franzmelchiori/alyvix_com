@@ -1,14 +1,14 @@
 ---
-title: The Urban Jungle
+title: GVCC
 date: 17:34 07/04/2017 
 
-hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
-hero_image: unsplash-sidney-perry.jpg
+hero_classes: parallax text-light
+hero_image: alyvix_success_story_comuni_bolzano.png
 show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [travel, photography, city]
+    tag: [proprietary client, health service]
 ---
 
 Lorem markdownum credas animos nec Phoeboque; de iuris *creverat* et finis ad
