@@ -2,7 +2,7 @@
 title: GVCC
 date: 12:00 04/23/2020 
 
-hero_classes: parallax text-light
+hero_classes: parallax text-light title-h1h2 overlay-dark-gradient hero-large
 hero_image: alyvix_success_story_comuni_bolzano.png
 show_sidebar: true
 

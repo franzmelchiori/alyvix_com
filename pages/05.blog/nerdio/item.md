@@ -2,21 +2,23 @@
 title: NerdIO
 date: 12:00 04/23/2020 
 
-hero_classes: parallax text-light
+hero_classes: parallax text-light title-h1h2 overlay-dark-gradient hero-large
 hero_image: alyvix_success_story_nerdio.png
 show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [virtual machine, rdc, it service]
+    tag: [windows, virtual machine, rdp, rdc, it service]
 ---
 
+<!--BLOG ABSTRACT-->
 Lorem markdownum credas animos nec Phoeboque; de iuris *creverat* et finis ad
 remis. Mox hanc innixus actum dabitur Amorum; esse erat paventem. Cum sole deque
 manu memores neu aurea sit est, ira.
 
 ===
 
+<!--BLOG ARTICLE-->
 - Dique tantique Ampyca
 - Fastigia inquit centumque longos
 - Egit nebulasque
