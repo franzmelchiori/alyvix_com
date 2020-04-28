@@ -24,5 +24,5 @@ feed:
 pagination: true
 ---
 
-# Monitoring Stories
-## Improving IT service quality
+# Monitoring stories
+## improving IT service quality
