@@ -21,14 +21,11 @@ anyone in the organization could easily track.
 
 ===
 
+
 ## Südtiroler Gemeindenverband
-
 ### Stefan Kofler, System Administrator at the SGV
-
-### Sector: Public Administration
-
-### Employees: 70
-
+#### Sector: Public Administration
+#### Employees: 70
 
 
 ### The Challenge
@@ -116,9 +113,8 @@ certain if everything was really working together.  Today things look quite
 different:  Thanks to continuous Alyvix tests, we are constantly kept up to
 date about the availability and performance of all our applications.”
 
-![Stefan Kofler Photo](/path/to/kofler.png)
-
 Stefan Kofler, System Administrator at SGV
+
 
 The association of municipalities, SGV, is responsible for consulting,
 assisting and promoting all South Tyrolean municipalities and district
@@ -126,4 +122,3 @@ communities.  In this context, the association executes various activities
 including the creation and operation of common data processing and IT systems.
 Similarly, the development and maintenance of hardware and software are part
 of its essential tasks.
-
