@@ -1,6 +1,6 @@
 ---
 title: NerdIO
-date: 12:00 04/23/2020 
+date: 14:29 04/28/2020 
 
 hero_classes: parallax text-light title-h1h2 overlay-dark-gradient hero-large
 hero_image: alyvix_success_story_nerdio.png
@@ -8,52 +8,55 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [windows, virtual machine, rdp, rdc, it service]
+    tag: [monitoring, IT]
 ---
 
-<!--BLOG ABSTRACT-->
-Lorem markdownum credas animos nec Phoeboque; de iuris *creverat* et finis ad
-remis. Mox hanc innixus actum dabitur Amorum; esse erat paventem. Cum sole deque
-manu memores neu aurea sit est, ira.
+<!-- *** Short, so no abstract necessary -->
+
 
 ===
 
-<!--BLOG ARTICLE-->
-- Dique tantique Ampyca
-- Fastigia inquit centumque longos
-- Egit nebulasque
 
-Nova nos interea Deionidenque nervo vestigia intrasse metu; haec
-[numinis](http://www.ab.com/quam). Parat doctos arcana nobis cui animi Minervae
-deprecor ut cum?
+## Nerdio, Adar Inc
+### Vadim Vladimirskiy, CEO
+#### Sector: IT
 
-## Stygio auctoribus vulnere volucris Lycaon
 
-Nemorale geminato sanguine licet toto loqui posses et [ingreditur
-illa](http://pontum-in.org/cum) Nycteliusque. Incendia hoc velle tectis
-pollicita manu humum, per ad illiusque vitare altera in! Hactenus aetas,
-contigit, ne ita pars fata Latonia viderat video praecorrupta adiutus! Illo
-tundunt rapit serpentis bracchia innuba est fugam, data moenibus, ver dum ait
-suo?
+### Managing the Cloud:  End-to-End Monitoring with Alyvix
 
-- De spem altrici hosti
-- Loqui sidereus temptavit generis
-- Toto tabuit dirae scilicet
-- Phoebus hanc rurigenae domos haerens frequens vi
-- Dextra dissimulator omnia
-- Dedere petant
+Founded in 2005, Nerdio is a US technology pioneer offering its customers cloud
+IT services through the Nerdio solution – Windows desktops used via the
+Internet.  Only when the user experience with the cloud is comparable to that of
+a traditional PC can this business concept achieve the expected success.  Thus
+measuring these performance metrics is critical, leading Adar to decide to
+introduce the Alyvix end-to-end monitoring solution.
 
-Una vigor nec *nomen cur laboriferi* fugit est fuit **duro pars** et metuens
-cuius a! Medii mitto; hic flammas, non sinuavi **est cervix restabat** sequens
-ardent curvamina [tecta](http://et.org/).
 
-    ppc -= pop_dslam.and(smbScrollMebibyte, cycleFirmwareReader, byte_blob);
-    sourceCompiler(software);
-    botnet = dvd(ip + oem + leopard, uddiDrive);
+### The Challenge
 
-Qui qui est capillos, faveas ordine, humum ruit apri volantes, est illi! Amplius
-felicia; ore luce solum nec omnibus potest; ferrugine domoque templa **falcato**
-et digitis curre. Quae sanguine et colo unam sagitta tales diruerent, permulcens
-errore. Saepe caute quid: res: praemia, velle auras vires Ascalaphus, libro
-infelix antiquo? Fronde in quid ab modo, me postquam marmora debueram quibus
-dempsisse maiestas avis Phoebus et ecce potes trepidum.
+Monitoring the real user’s perception of delivered services is a fundamental
+need to guarantee Adar's corporate objectives.
+
+
+### The Solution
+
+Nerdio needed to measure latencies and end-to-end client performance from the
+user’s perspective.  Würth Phoenix's Alyvix helps them simulate user operations
+in applications such as Microsoft Office and Internet Explorer, helping to
+quickly identify any performance problems.
+
+
+### Result
+
+Alyvix finds performance slowdowns, helping Nerdio staff fix them even before
+their users can notice anything is happening.  It also helps Nerdio achieve
+guaranteed service levels, with demonstrable data that can be visualized
+graphically by customers.
+
+“Using traditional monitoring systems, it's practically impossible to check the 
+perceptions that real user have of system performance.  With Alyvix instead, we
+succeeded in obtaining significant data for helping assess the satisfaction of
+our customers.  Thanks to the simulation of user interactions with our systems,
+we can guarantee high levels of service for our desktop-centric solution.”
+
+Vadim Vladimirskiy, CEO
