@@ -1,14 +1,14 @@
 ---
-title: Synthetic Application Monitoring Replaces On-Call Service
-date: 15:26 04/27/2020 
+title: Visual Monitoring Replaces On-Call Service
+date: 09:00 04/28/2020 
 
 hero_classes: parallax text-light title-h1h2 overlay-dark-gradient hero-large
-hero_image: alyvix_success_story_svg.png
+hero_image: alyvix_success_story_sgv.png
 show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [monitoring, IT]
+    tag: [public administration, health service, intranet application]
 ---
 
 "You can only be sure that the service is running by clicking through it."
@@ -22,24 +22,22 @@ anyone in the organization could easily track.
 ===
 
 
-## Südtiroler Gemeindenverband
-### Stefan Kofler, System Administrator at the SGV
-#### Sector: Public Administration
-#### Employees: 70
+# Südtiroler Gemeindenverband
+### Stefan Kofler, System Administrator, [SGV](https://www.gvcc.net/)
 
 
-### The Challenge
+## The Challenge
 
 Classic monitoring can show you whether or not single IT components like a
 server, a hard disk or a CPU are functioning in isolation.  But it doesn't
 verify that your critical applications as a whole are actually running.
-Südtiroler Gemeindenverband needed a way to monitor that the integration of
+Südtiroler Gemeindenverband (SGV) needed a way to monitor that the integration of
 components were delivering services, not just functioning individually.
 
 
-### The Solution
+## The Solution
 
-Würth Phoenix helped SGV define typical transaction sequences that were
+[Würth Phoenix](https://www.wuerth-phoenix.com/) helped SGV define typical transaction sequences that were
 run automatically by Alyvix.  The results are then displayed graphically on a
 dedicated website which is accessible to all stakeholders in their organization.
 This includes IT employees and nursing personnel who can inform themselves
@@ -49,7 +47,7 @@ about application availability and performance at any moment in real time.
 ## Why SGV's IT Applications Are Crucial 
 
 Whether an application is truly working or not can only be verified by actually
-using it.  SGV (Südtiroler Gemeindenverband), the association of municipalities
+using it.  SGV, the association of municipalities
 of South Tyrol that operates a data center with 40 IT employees for all
 South Tyrolean municipalities and district communities, established a continuous
 and automated application monitoring approach.  
@@ -84,7 +82,7 @@ working properly.  Through our ordinary monitoring checks it was only possible
 to confirm that the preconditions were there for smooth operation, but you can
 only be sure that a given service is running by actually clicking through it.”
 
-At the South Tyrol Free Software Conference (SFScon), SGV saw Alyvix for the
+At the South Tyrol Free Software Conference ([SFScon](https://www.sfscon.it/)), SGV saw Alyvix for the
 first time and decided to implement this open source solution.  Because of
 human resource constraints, Würth Phoenix was engaged to conduct both the
 implementation and staff training.  After a day and a half, the system was
@@ -113,9 +111,13 @@ certain if everything was really working together.  Today things look quite
 different:  Thanks to continuous Alyvix tests, we are constantly kept up to
 date about the availability and performance of all our applications.”
 
-Stefan Kofler, System Administrator at SGV
+Stefan Kofler, System Administrator, [SGV](https://www.gvcc.net/)
 
 
+---
+
+
+### SGV, Public Administration, 70 Employees
 The association of municipalities, SGV, is responsible for consulting,
 assisting and promoting all South Tyrolean municipalities and district
 communities.  In this context, the association executes various activities

@@ -1,6 +1,6 @@
 ---
 title: IBB Focuses on Service Quality and End User Experience
-date: 17:30 04/27/2020
+date: 12:00 04/28/2020 
 
 hero_classes: parallax text-light title-h1h2 overlay-dark-gradient hero-large
 hero_image: alyvix_success_story_ibb.png
