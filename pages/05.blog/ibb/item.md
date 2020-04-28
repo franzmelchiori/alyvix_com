@@ -11,47 +11,153 @@ taxonomy:
     tag: [web portal, bank service]
 ---
 
-Lorem markdownum credas animos nec Phoeboque; de iuris *creverat* et finis ad
-remis. Mox hanc innixus actum dabitur Amorum; esse erat paventem. Cum sole deque
-manu memores neu aurea sit est, ira.
+"Already in the first week we have been able to restart four blocked
+applications or services, before our users would have even noticed the
+downtime."
+
+***
+
+The Internationales Bankhaus Bodensee needed a way to continuously verify
+that applications developed and hosted off-site were functioning.
+Würth Phoenix helped them set up Alyvix real user experience software
+to notify them when those applications went down.
+
 
 ===
 
-- Dique tantique Ampyca
-- Fastigia inquit centumque longos
-- Egit nebulasque
 
-Nova nos interea Deionidenque nervo vestigia intrasse metu; haec
-[numinis](http://www.ab.com/quam). Parat doctos arcana nobis cui animi Minervae
-deprecor ut cum?
+## Internationales Bankhaus Bodensee AG (IBB)
+### Andreas Zipse, IT/Facility Manager at the IBB
+#### Sector: Banking
+#### Employees: 180
 
-## Stygio auctoribus vulnere volucris Lycaon
 
-Nemorale geminato sanguine licet toto loqui posses et [ingreditur
-illa](http://pontum-in.org/cum) Nycteliusque. Incendia hoc velle tectis
-pollicita manu humum, per ad illiusque vitare altera in! Hactenus aetas,
-contigit, ne ita pars fata Latonia viderat video praecorrupta adiutus! Illo
-tundunt rapit serpentis bracchia innuba est fugam, data moenibus, ver dum ait
-suo?
+### The Challenge
 
-- De spem altrici hosti
-- Loqui sidereus temptavit generis
-- Toto tabuit dirae scilicet
-- Phoebus hanc rurigenae domos haerens frequens vi
-- Dextra dissimulator omnia
-- Dedere petant
+Monitoring the availability and response times of a business-critical
+application hosted by a third-party provider is even more difficult when you
+don't have direct access to their servers.
 
-Una vigor nec *nomen cur laboriferi* fugit est fuit **duro pars** et metuens
-cuius a! Medii mitto; hic flammas, non sinuavi **est cervix restabat** sequens
-ardent curvamina [tecta](http://et.org/).
 
-    ppc -= pop_dslam.and(smbScrollMebibyte, cycleFirmwareReader, byte_blob);
-    sourceCompiler(software);
-    botnet = dvd(ip + oem + leopard, uddiDrive);
+### The Solution
 
-Qui qui est capillos, faveas ordine, humum ruit apri volantes, est illi! Amplius
-felicia; ore luce solum nec omnibus potest; ferrugine domoque templa **falcato**
-et digitis curre. Quae sanguine et colo unam sagitta tales diruerent, permulcens
-errore. Saepe caute quid: res: praemia, velle auras vires Ascalaphus, libro
-infelix antiquo? Fronde in quid ab modo, me postquam marmora debueram quibus
-dempsisse maiestas avis Phoebus et ecce potes trepidum.
+Würth Phoenix helped IBB define typical user transactions that were executed
+automatically by Alyvix every five minutes, and that even included measurement
+of the corresponding performance data.  This helped IBB's IT department detect
+application failures at an early stage so they could resolve them before they
+could affect employees and their work activities.
+
+
+## Alyvix:  Before and After
+
+Although the IT department is not an independent branch of IBB, it is
+nevertheless extremely critical for business success.  Smooth IT operation
+is a prerequisite for supplying adequate services to demanding customers, and 
+breakdowns must be avoided at all costs.  Thus IBB decided to outsource most
+of its IT services and to rely on a data center specialist for day to day
+operations.
+
+Before Alyvix, whenever business-critical IT services went down, the IT staff
+of the Internationales Bankhaus Bodensee AG (IBB) relied on outage
+notifications reported by users themselves in order to get systems back online.
+
+Today, its users don't even notice when downtime occurs thanks to the
+introduction of a proactive monitoring strategy using Alyvix.  The banking
+house, with its headquarters in Friedrichshafen, demands the same highest
+quality in its customer-facing services just as it does in all other areas.
+
+
+## Trust is Good, Control is Better
+
+In 2015, this outsourcing situation posed a particular challenge for IBB.
+
+"The cloud applications provider defined their SLAs in such a way that they
+were only measured from the moment when the requests arrived on their side.
+So SLA compliance was not affected by anything happening between
+Friedrichshafen and the data center.  Instead what's more important to us
+is that the employees in Friedrichshafen and our other locations are able to
+open our applications and work with them at any time."
+
+Andreas Zipse, IT/Facility Manager at the IBB
+
+Given the lack of complete control, there was an obvious need for an
+appropriate level of monitoring.  IBB needed a tool that could verify the
+availability and responsiveness of business-critical cloud services 24 hours
+a day, at any location.  Additionally, any tool had to be able to record the
+corresponding performance data.
+
+
+## Search Starts in the Cloud
+
+IBB began looking for a monitoring solution that could measure the end user’s
+experience on cloud applications.  The primary aim was to monitor the 
+availability and performance perceived by the user on business-critical 
+applications, with the limitation of not having direct server access.
+
+Their first idea was to search for a cloud solution, and they tested out
+several different cloud-based monitoring solutions.  But IBB's IT security
+manager did not agree with this approach, and so the search had to begin again.
+
+
+## Alyvix Hits the Bullseye
+
+In the spring of 2016, IBB touched base with Würth Phoenix and got to know the 
+Alyvix end user experience monitoring software.  The benefits spoke for 
+themselves: Monitoring of availability and performance of any application, 
+without the need for direct server access.
+
+"We were invited to see a demo of Alyvix, and then when we heard that it was
+even possible to monitor applications where we had no server access, we
+immediately made our decision and set aside all the other tools."
+
+Andreas Zipse, IT/Facility Manager at the IBB
+
+And soon after they started with the project implementation.
+
+
+## Learning by Doing
+
+A consultant was responsible for implementing the new monitoring tool in
+cooperation with IBB's chief project manager.  After just three days, two
+complete test scenarios were up and running smoothly on the company's two most
+important applications.  During the first week, Alyvix tests had already helped
+to restart four failed applications before users had even noticed.
+
+In the past, the IT staff had been reliant on their users for outage
+notifications.  Today, roactive handling with Alyvix is positively enhancing
+the user experience.  The IBB employee in charge of the entire implementation
+was present during the whole process, helping him to gain deep knowledge of
+the software, and allowing him to later create Alyvix test cases independently.
+
+
+## Conclusion
+
+By introducing Alyvix, IBB found a suitable monitoring solution to control
+business-critical cloud applications hosted by an external provider, despite
+not having server access.  Now the bank is able to independently monitor
+application availability and performance around the clock.
+
+This way, IBB doesn't have to limit its quality assurance to the response time
+from when a request arrives at the data center, but can also measure software
+performance directly at each employee's desk.  As a result, IBB is continuously
+getting up-to-date information regarding the real user experience.
+
+Thanks to real time monitoring, outages are identified before users perceive
+them, and the bank’s IT staff can independently define new test scenarios using 
+the knowledge gained during the project phase.  On a scale from 1 to 10,
+Andreas Zipse gives Alyvix and Würth Phoenix the top score.
+
+"I can just give them a 10.  Excellent!  We are rarely in contact with service
+providers who are that engaged."
+
+Andreas Zipse, IT/Facility Manager at IBB
+
+
+The Internationales Bankhaus Bodensee AG (IBB) was founded in Friedrichshafen
+in 1996 by an international group of shareholders, including 
+Würth-Finanz-Beteiligungs-GmbH, Künzelsau and the Vorarlberger Landes- und 
+Hypothekenbank AG, Bregenz (Austria).  With over 170 employees in its
+headquarters at Friedrichshafen and five additional locations in Künzelsau, 
+Konstanz, Freudenstadt, Radolfzell and Munich, IBB mainly focuses its 
+consulting services on Private Banking, corporate customers, and commercial
+real estate customers.
