@@ -1,6 +1,6 @@
 ---
-title: IBB
-date: 12:00 04/23/2020 
+title: IBB Focuses on Service Quality and End User Experience
+date: 17:30 04/27/2020
 
 hero_classes: parallax text-light title-h1h2 overlay-dark-gradient hero-large
 hero_image: alyvix_success_story_ibb.png
@@ -8,14 +8,12 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [web portal, bank service]
+    tag: [monitoring, IT]
 ---
 
 "Already in the first week we have been able to restart four blocked
 applications or services, before our users would have even noticed the
 downtime."
-
-***
 
 The Internationales Bankhaus Bodensee needed a way to continuously verify
 that applications developed and hosted off-site were functioning.
