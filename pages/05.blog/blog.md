@@ -25,4 +25,4 @@ pagination: true
 ---
 
 # Monitoring Stories
-## aiming the IT service quality
+## Improving IT service quality
