@@ -13,7 +13,7 @@ menu: Events
 ![bla4](alyvix_event_sfscon.png)
 [/owl-carousel]
 
-<ol reversed>
+<ol reversed class="center">
     <li><b>SFScon</b> 2019 | November 15, 2019 | Bolzano, Italy</li>
     <li><b>Icinga Camp</b> Milan 2019 | September 26, 2019 | Milan, Italy</li>
     <li><b>Icinga Camp</b> Berlin 2019 | March 14, 2019 | Berlin, Germany</li>
