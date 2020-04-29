@@ -21,6 +21,7 @@ Nerdio needed to measure latencies and end-to-end client performance from the us
 
 # Nerdio Inc.
 ### Vadim Vladimirskiy, CEO, [Nerdio Inc.](https://getnerdio.com/)
+### Amol Dalvi, VP, Product, [Nerdio Inc.](https://getnerdio.com/)
 
 
 ## Managing the Cloud: End-to-End Monitoring with Alyvix
@@ -62,5 +63,3 @@ Because the tests are performed at regular intervals, this type of monitoring he
 ### How can visual monitoring help organizations optimize their IT resources?
 
 A big advantage of this type of monitoring is that organizations can create new and informative data points to inform resource allocation and usage, based on real user trends. For example, you may start to notice patterns like performance slowing down at a certain time of day, and in turn boost your compute resources during those hours to help your team work more effectively. In addition, this type of comprehensive monitoring empowers organizations to ensure that they are indeed receiving the quality of service promised by vendors.
-
-Amol Dalvi, Senior Director of Product, [Nerdio Inc.](https://getnerdio.com/)
