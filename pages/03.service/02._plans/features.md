@@ -14,7 +14,7 @@ features:
 	  icon: fa fa-life-ring
 ---
 
-# Integrate Visual Checks
+# Integrate visual checks
 ## Enhance your monitoring
 
 We can provide you with services to meet the following crucial aspects of
