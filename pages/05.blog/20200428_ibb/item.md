@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [bank service, third-party it provider, business-critical app]
+    tag: [bank service, third-party it provider, business-critical app, success story]
 ---
 
 "Already in the first week we have been able to restart four blocked applications or services, before our users would have even noticed the downtime."

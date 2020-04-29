@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [public administration, health service, intranet app]
+    tag: [public administration, health service, intranet app, success story]
 ---
 
 "You can only be sure that the service is running by clicking through it."
