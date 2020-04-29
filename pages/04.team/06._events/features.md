@@ -13,6 +13,7 @@ menu: Events
 ![bla4](alyvix_event_sfscon.png)
 [/owl-carousel]
 
+<!--
 <ol reversed class="center">
     <li><b>SFScon</b> 2019 | November 15, 2019 | Bolzano, Italy</li>
     <li><b>Icinga Camp</b> Milan 2019 | September 26, 2019 | Milan, Italy</li>
@@ -29,3 +30,4 @@ menu: Events
     <li><b>Würth Phoenix UserGroup</b> Germany 2016 | May 12, 2016 | Ludwigsburg, Germany</li>
     <li><b>OSMC</b> 2015 | November 16, 2015 | Nuremberg, Germany</li>
 </ol>
+-->
