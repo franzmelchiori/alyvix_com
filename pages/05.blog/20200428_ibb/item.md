@@ -44,7 +44,7 @@ Today, its users don't even notice when downtime occurs thanks to the introducti
 
 ## Trust is Good, Control is Better
 
-"The cloud applications provider defined their SLAs in such a way that they were only measured from the moment when the requests arrived on their side. So SLA compliance was not affected by anything happening between Friedrichshafen and the data center. Instead what's more important to us is that the employees in Friedrichshafen and our other locations are able to open our applications and work with them at any time." Andreas Zipse, IT/Facility Manager, IBB
+"The cloud applications provider defined their SLAs in such a way that they were only measured from the moment when the requests arrived on their side. So SLA compliance was not affected by anything happening between Friedrichshafen and the data center. Instead what's more important to us is that the employees in Friedrichshafen and our other locations are able to open our applications and work with them at any time." Andreas Zipse, IT/Facility Manager, IBB AG
 
 Given the lack of complete control, there was an obvious need for an appropriate level of monitoring. IBB needed a tool that could verify the availability and responsiveness of business-critical cloud services 24 hours a day, at any location. Additionally, any tool had to be able to record the corresponding performance data.
 
@@ -60,7 +60,7 @@ Their first idea was to search for a cloud solution, and they tested out several
 
 IBB touched base with Würth Phoenix and got to know the Alyvix end user experience monitoring software. The benefits spoke for themselves: Monitoring of availability and performance of any application, without the need for direct server access.
 
-"We were invited to see a demo of Alyvix, and then when we heard that it was even possible to monitor applications where we had no server access, we immediately made our decision and set aside all the other tools." Andreas Zipse, IT/Facility Manager, IBB
+"We were invited to see a demo of Alyvix, and then when we heard that it was even possible to monitor applications where we had no server access, we immediately made our decision and set aside all the other tools." Andreas Zipse, IT/Facility Manager, IBB AG
 
 And soon after they started with the project implementation.
 
@@ -86,6 +86,6 @@ Thanks to real time monitoring, outages are identified before users perceive the
 ---
 
 
-#### IBB, Banking Sector, 180 Employees
+#### IBB AG, Banking Sector, 180 Employees
 
 The Internationales Bankhaus Bodensee AG (IBB) was founded in Friedrichshafen in 1996 by an international group of shareholders, including Würth Finanz Beteiligungs GmbH, Künzelsau and the Vorarlberger Landes und Hypothekenbank AG, Bregenz (Austria). With over 170 employees in its headquarters at Friedrichshafen and five additional locations in Künzelsau, Konstanz, Freudenstadt, Radolfzell and Munich, IBB mainly focuses its consulting services on Private Banking, corporate customers, and commercial real estate customers.
