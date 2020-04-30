@@ -13,21 +13,17 @@ menu: Events
 ![bla4](alyvix_event_sfscon.png)
 [/owl-carousel]
 
-<!--
-<ol reversed class="center">
-    <li><b>SFScon</b> 2019 | November 15, 2019 | Bolzano, Italy</li>
-    <li><b>Icinga Camp</b> Milan 2019 | September 26, 2019 | Milan, Italy</li>
-    <li><b>Icinga Camp</b> Berlin 2019 | March 14, 2019 | Berlin, Germany</li>
-    <li><b>SFScon</b> 2018 | November 16, 2018 | Bolzano, Italy</li>
-    <li><b>OSMC</b> 2018 | November 5, 2018 | Nuremberg, Germany</li>
-    <li><b>Würth Phoenix UserGroup</b> Italy 2018 | October 18, 2018 | Cavaion Veronese, Verona, Italy</li>
-    <li><b>Würth Phoenix UserGroup</b> Germany 2017 | March 23, 2016 | Nuremberg, Germany</li>
-    <li><b>Icinga Camp</b> Berlin 2017 | March 7, 2017 | Berlin, Germany</li>
-    <li><b>FOSDEM</b> 2017 | February 4, 2017 | Brussels, Belgium</li>
-    <li><b>SFScon</b> 2016 | November 11, 2016 | Bolzano, Italy</li>
-    <li><b>Würth Phoenix UserGroup</b> Italy 2016 | October 20, 2016 | Trento, Italy</li>
-    <li><b>Icinga Camp</b> Stockholm 2016 | October 11, 2016 | Stockholm, Sweden</li>
-    <li><b>Würth Phoenix UserGroup</b> Germany 2016 | May 12, 2016 | Ludwigsburg, Germany</li>
-    <li><b>OSMC</b> 2015 | November 16, 2015 | Nuremberg, Germany</li>
-</ol>
--->
+<span>14. </span><b><a href="https://www.sfscon.it /">SFScon</a> 2019</b> <nobr>November 15, Bolzano, Italy<br></nobr>
+<span>13. </span><b><a href="https://icinga.com/events /">Icinga Camp</a> Milan 2019</b> <nobr>September 26, Milan, Italy<br></nobr>
+<span>12. </span><b><a href="https://icinga.com/events /">Icinga Camp</a> Berlin 2019</b> <nobr>March 14, Berlin, Germany<br></nobr>
+<span>11. </span><b><a href="https://www.sfscon.it /">SFScon</a> 2018</b> <nobr>November 16, Bolzano, Italy<br></nobr>
+<span>10. </span><b><a href="https://osmc.de /">OSMC</a> 2018</b> <nobr>November 5, Nuremberg, Germany<br></nobr>
+<span>9. </span><b><a href="https://www.wuerth-phoenix.com /">Würth Phoenix UserGroup</a> Italy 2018</b> <nobr>October 18, Cavaion Veronese (VR), Italy<br></nobr>
+<span>8. </span><b><a href="https://www.wuerth-phoenix.com /">Würth Phoenix UserGroup</a> Germany 2017</b> <nobr>March 23, Nuremberg, Germany<br></nobr>
+<span>7. </span><b><a href="https://icinga.com/events /">Icinga Camp</a> Berlin 2017</b> <nobr>March 7, Berlin, Germany<br></nobr>
+<span>6. </span><b><a href="https://fosdem.org /">FOSDEM</a> 2017</b> <nobr>February 4, Brussels, Belgium<br></nobr>
+<span>5. </span><b><a href="https://www.sfscon.it /">SFScon</a> 2016</b> <nobr>November 11, Bolzano, Italy<br></nobr>
+<span>4. </span><b><a href="https://www.wuerth-phoenix.com /">Würth Phoenix UserGroup</a> Italy 2016</b> <nobr>October 20, Trento, Italy<br></nobr>
+<span>3. </span><b><a href="https://icinga.com/events /">Icinga Camp</a> Stockholm 2016</b> <nobr>October 11, Stockholm, Sweden<br></nobr>
+<span>2. </span><b><a href="https://www.wuerth-phoenix.com /">Würth Phoenix UserGroup</a> Germany 2016</b> <nobr>May 12, Ludwigsburg, Germany<br></nobr>
+<span>1. </span><b><a href="https://osmc.de /">OSMC</a> 2015</b> <nobr>November 16, Nuremberg, Germany<br></nobr>
