@@ -1,0 +1,5 @@
+@media (min-width: 525px) {
+  .hidden-br {
+    display: none !important;
+  }
+}
