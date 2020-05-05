@@ -13,17 +13,17 @@ menu: Events
 ![bla4](alyvix_event_sfscon.png)
 [/owl-carousel]
 
-<span>14. </span><b><a href="https://www.sfscon.it/">SFScon</a> 2019</b> <br class="hidden-ss"><nobr>November 15, Bolzano, Italy<br></nobr>
-<span>13. </span><b><a href="https://icinga.com/events/">Icinga Camp</a> Milan 2019</b> <br class="hidden-ss"><nobr>September 26, Milan, Italy<br></nobr>
-<span>12. </span><b><a href="https://icinga.com/events/">Icinga Camp</a> Berlin 2019</b> <br class="hidden-ss"><nobr>March 14, Berlin, Germany<br></nobr>
-<span>11. </span><b><a href="https://www.sfscon.it/">SFScon</a> 2018</b> <br class="hidden-ss"><nobr>November 16, Bolzano, Italy<br></nobr>
-<span>10. </span><b><a href="https://osmc.de/">OSMC</a> 2018</b> <br class="hidden-ss"><nobr>November 5, Nuremberg, Germany<br></nobr>
-<span>9. </span><b><a href="https://www.wuerth-phoenix.com/">Würth Phoenix UserGroup</a> Italy 2018</b> <br class="hidden-ss"><nobr>October 18, Cavaion Veronese (VR), Italy<br></nobr>
-<span>8. </span><b><a href="https://www.wuerth-phoenix.com/">Würth Phoenix UserGroup</a> Germany 2017</b> <br class="hidden-ss"><nobr>March 23, Nuremberg, Germany<br></nobr>
-<span>7. </span><b><a href="https://icinga.com/events/">Icinga Camp</a> Berlin 2017</b> <br class="hidden-ss"><nobr>March 7, Berlin, Germany<br></nobr>
-<span>6. </span><b><a href="https://fosdem.org/">FOSDEM</a> 2017</b> <br class="hidden-ss"><nobr>February 4, Brussels, Belgium<br></nobr>
-<span>5. </span><b><a href="https://www.sfscon.it/">SFScon</a> 2016</b> <br class="hidden-ss"><nobr>November 11, Bolzano, Italy<br></nobr>
-<span>4. </span><b><a href="https://www.wuerth-phoenix.com/">Würth Phoenix UserGroup</a> Italy 2016</b> <br class="hidden-ss"><nobr>October 20, Trento, Italy<br></nobr>
-<span>3. </span><b><a href="https://icinga.com/events/">Icinga Camp</a> Stockholm 2016</b> <br class="hidden-ss"><nobr>October 11, Stockholm, Sweden<br></nobr>
-<span>2. </span><b><a href="https://www.wuerth-phoenix.com/">Würth Phoenix UserGroup</a> Germany 2016</b> <br class="hidden-ss"><nobr>May 12, Ludwigsburg, Germany<br></nobr>
-<span>1. </span><b><a href="https://osmc.de/">OSMC</a> 2015</b> <br class="hidden-ss"><nobr>November 16, Nuremberg, Germany<br></nobr>
+<span>14. </span><b><a href="https://www.sfscon.it/">SFScon</a> 2019</b> <br class="small_screen">November 15, Bolzano, Italy<br>
+<span>13. </span><b><a href="https://icinga.com/events/">Icinga Camp</a> Milan 2019</b> <br class="small_screen">September 26, Milan, Italy<br>
+<span>12. </span><b><a href="https://icinga.com/events/">Icinga Camp</a> Berlin 2019</b> <br class="small_screen">March 14, Berlin, Germany<br>
+<span>11. </span><b><a href="https://www.sfscon.it/">SFScon</a> 2018</b> <br class="small_screen">November 16, Bolzano, Italy<br>
+<span>10. </span><b><a href="https://osmc.de/">OSMC</a> 2018</b> <br class="small_screen">November 5, Nuremberg, Germany<br>
+<span>9. </span><b><a href="https://www.wuerth-phoenix.com/">Würth Phoenix UserGroup</a> Italy 2018</b> <br class="small_screen">October 18, Cavaion Veronese (VR), Italy<br>
+<span>8. </span><b><a href="https://www.wuerth-phoenix.com/">Würth Phoenix UserGroup</a> Germany 2017</b> <br class="small_screen">March 23, Nuremberg, Germany<br>
+<span>7. </span><b><a href="https://icinga.com/events/">Icinga Camp</a> Berlin 2017</b> <br class="small_screen">March 7, Berlin, Germany<br>
+<span>6. </span><b><a href="https://fosdem.org/">FOSDEM</a> 2017</b> <br class="small_screen">February 4, Brussels, Belgium<br>
+<span>5. </span><b><a href="https://www.sfscon.it/">SFScon</a> 2016</b> <br class="small_screen">November 11, Bolzano, Italy<br>
+<span>4. </span><b><a href="https://www.wuerth-phoenix.com/">Würth Phoenix UserGroup</a> Italy 2016</b> <br class="small_screen">October 20, Trento, Italy<br>
+<span>3. </span><b><a href="https://icinga.com/events/">Icinga Camp</a> Stockholm 2016</b> <br class="small_screen">October 11, Stockholm, Sweden<br>
+<span>2. </span><b><a href="https://www.wuerth-phoenix.com/">Würth Phoenix UserGroup</a> Germany 2016</b> <br class="small_screen">May 12, Ludwigsburg, Germany<br>
+<span>1. </span><b><a href="https://osmc.de/">OSMC</a> 2015</b> <br class="small_screen">November 16, Nuremberg, Germany<br>
