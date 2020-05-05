@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [virtual machine, windows desktop, rdp, rdc, tutorial]
+    tag: [rdp, virtual machine, windows desktop, remote desktop, rdc, login, tutorial]
 ---
 
 This tutorial shows how to securely log on to Microsoft's Remote Desktop
