@@ -1,7 +1,7 @@
 ---
 title: Alyvix Service | Enterprise Plus Subscription | Contact Form
 form:
-    name: alyvix_service
+    name: alyvix_service_enterprise_plus_subscription_contact_form
     fields:
         - name: name
           label: Name
