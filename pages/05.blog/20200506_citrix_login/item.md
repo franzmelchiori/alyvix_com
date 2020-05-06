@@ -93,7 +93,7 @@ We also need to click on the *Log On* button, so change the type of the third co
 Now we can give it a name like *StartCitrix*, [make it a scripting node](https://alyvix.com/learn/test_case_building/editor_scripting_panel.html#editor-script-building), and run the script to check that it works.
 
 
-## Add Storefront Loaded Verification ***
+## Add Storefront Loaded Verification
 
 Let's add another test case object to verify that Citrix loaded successfully. After the prior step, Citrix should have continued to the Storefront page.
 
