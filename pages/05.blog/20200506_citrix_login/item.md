@@ -47,11 +47,7 @@ Before we begin, let's go to the Command Prompt and start up Citrix Gateway in a
     C:\Alyvix\testcases> "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" ^
        https://citrix.wuerth-phoenix.com --incognito --start-maximized
 
-Use the URL for your Citrix Gateway, and add the options *--incognito* and *--start-maximized* as shown so that Chrome will always start up with a clean first page at full screen size:
-
-![Login Screen](alyvix_tutorial_citrix_01_login_screen.png)
-
-Once it's started up, minimize Chrome to go back to the command prompt.
+Use the URL for your Citrix Gateway, and add the options *--incognito* and *--start-maximized* as shown so that Chrome will always start up with a clean first page at full screen size. Once it's started up, minimize Chrome to go back to the command prompt.
 
 
 ## Citrix Login Screen
@@ -64,7 +60,7 @@ We'll need to [capture the screen](https://alyvix.com/learn/test_case_building/s
 
 Next use the left mouse button to select the anchor, and then right click to select the *User name* field, the *Password* field, and the *Log On* button.
 
-![First Screen Capture](alyvix_tutorial_citrix_02_first_capture.png)
+![First Screen Capture](alyvix_tutorial_citrix_login_01_first_capture.png)
 
 Press *Escape* to return to Alyvix Editor.
 
@@ -73,7 +69,7 @@ Press *Escape* to return to Alyvix Editor.
 
 We need to launch Citrix immediately on startup, so go to the [root node](https://alyvix.com/learn/test_case_building/designer_component_tree.html#structure-of-the-component-tree), and then the [Path field](https://alyvix.com/learn/test_case_building/designer_component_options.html#root-component-options) at the bottom of the Designer panel:
 
-![Root Options](alyvix_tutorial_citrix_03_root_options.png)
+![Root Options](alyvix_tutorial_citrix_login_02_root_options.png)
 
 Either click on Select and use Explorer to choose Chrome, or just directly type in the full path. This way, when our test case starts in either Editor or Robot, Chrome will also be started.
 
@@ -86,7 +82,7 @@ To enter the user name in its field in Citrix, [select the first component](http
 
 At this point we would usually enter the user name as a string so Alyvix will type it into that field. But to avoid entering them in clear text where they will be stored that way in the *.alyvix* file, instead, enter the encrypted user name key from before;
 
-![Encrypted Key](alyvix_tutorial_citrix_04_encrypted_key.png)
+![Encrypted Key](alyvix_tutorial_citrix_login_03_encrypted_key.png)
 
 When Robot runs the test case with the "K" parameter set, it will automatically decrypt the user name and enter it directly into the field without storing it in the *.alyvix* file.
 
@@ -103,13 +99,13 @@ Let's add another test case object to verify that Citrix loaded successfully. Af
 
 To verify that this page has loaded let's create two selections, right clicking on the icon above the word "APPS", and then again on the word "APPS" itself:
 
-![Second Screen Capture](alyvix_tutorial_citrix_05_second_capture.png)
+![Second Screen Capture](alyvix_tutorial_citrix_login_04_second_capture.png)
 
 Let's *Move* the cursor over the apps icon as a doublecheck for ourselves when it runs. Then rename the new test case object to *StorefrontLoaded* and drag it to the scripting panel.
 
 Now make sure both scripting nodes are enabled, and save the test case so that Robot will have all the information it needs to run by itself.
 
-![Save Test Case](alyvix_tutorial_citrix_06_saved_test_case.png)
+![Save Test Case](alyvix_tutorial_citrix_login_05_saved_test_case.png)
 
 
 ## Run Everything from Robot
@@ -135,8 +131,4 @@ This tutorial showed you how to start up a browser given its path, create two en
 
 The content in this tutorial, of course, serves as the first step in a longer test case that will actually do some work within the remote desktop. After you've done those additional steps, don't forget to make your test case log out from Citrix!
 
-You can see a video tutorial following the content of this blog post on [YouTube](https://www.youtube.com/watch?v=KNfB_pVijX4).
-
-[owl-carousel items=1 video=true]
 <iframe width="288" height="162" src="https://www.youtube.com/embed/KNfB_pVijX4?color=white&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[/owl-carousel]
