@@ -22,7 +22,7 @@ form:
 
         - name: service_request
           label: Service request
-          default: Professional subscription
+          default: Professional Subscription
           type: text
           readonly: true
 
@@ -43,7 +43,7 @@ form:
               - "{{ config.plugins.email.from }}"
             to:
               - "{{ config.plugins.email.to }}"
-            subject: "[Alyvix|Lead] Service request | Professional subscription"
+            subject: "[Alyvix|Lead] Service request | Professional Subscription"
             body: "{% include 'forms/data.html.twig' %}"
         - save:
             fileprefix: contact_form_
