@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [rdp, virtual machine, windows desktop, remote desktop, rdc, login, tutorial]
+    tag: [rdp, virtual machine, windows desktop, remote desktop, rdc, login, credentials, encryption, tutorial]
 ---
 
 This tutorial shows how to securely log on to Microsoft's Remote Desktop
@@ -107,3 +107,5 @@ When it runs, Alyvix will start RDC, enter the host name, click Connect, then en
 This tutorial showed you how to start up a system program given its path, create an encrypted key from your password using a private key, create an Alyvix test case that enters the key in the appropriate field, and run the test case from the command line by using your private key (if you're scripting it, be sure to protect it with permissions or root access).
 
 The content in this tutorial, of course, serves as the first step in a longer test case that will actually do some work within the remote desktop. After you've done those additional steps, don't forget to log out from RDC!
+
+<iframe width="288" height="162" src="https://www.youtube.com/embed/sAmV1GVX-Y4?color=white&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
