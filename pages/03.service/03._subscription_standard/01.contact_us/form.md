@@ -20,17 +20,21 @@ form:
             rule: email
             required: true
 
+        - name: service_request
+          label: Service request
+          default: Standard subscription
+          type: text
+          readonly: true
+
         - name: message
           label: Message
           size: long
           placeholder: Enter your message
           type: textarea
-          validate:
-            required: true
 
     buttons:
         - type: submit
-          value: Submit
+          value: Send the service request
           classes: gdlr-button with-border excerpt-read-more
 
     process:
@@ -39,7 +43,7 @@ form:
               - "{{ config.plugins.email.from }}"
             to:
               - "{{ config.plugins.email.to }}"
-            subject: "[Alyvix|Lead] Service request from {{ form.value.name|e }}"
+            subject: "[Alyvix|Lead] Service request | Standard subscription"
             body: "{% include 'forms/data.html.twig' %}"
         - save:
             fileprefix: contact_form_
@@ -49,3 +53,9 @@ form:
         - message: Thank you for contacting us!
         - display: thank_you
 ---
+
+## **Standard** Subscription
+
+Service and support for **1 probe** and *3 test cases* at **€2.860/yr**.
+
+Please, **fill in the form** below and **send the service request** to us:

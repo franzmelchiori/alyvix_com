@@ -1,8 +1,5 @@
 # pycharm folder
 .idea
 
-# email plugin config
-/config/plugins/email.yaml
-
 # received contact forms
 /data/alyvix_service/

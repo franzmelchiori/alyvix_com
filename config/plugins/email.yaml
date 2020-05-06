@@ -1,0 +1,20 @@
+enabled: true
+from: info@alyvix.com
+from_name: Alyvix Service
+to: info@alyvix.com
+to_name: Alyvix Team
+queue:
+  enabled: false
+  flush_frequency: '* * * * *'
+  flush_msg_limit: 10
+  flush_time_limit: 100
+mailer:
+  engine: smtp
+  smtp:
+    server: localhost
+    port: 25
+    encryption: none
+    user: ''
+    password: ''
+content_type: text/html
+debug: false

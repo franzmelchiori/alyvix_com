@@ -1,5 +1,5 @@
 ---
-title: Alyvix Service | Standard Subscription | Contact Form
+title: Alyvix Service | Enterprise Plus Subscription | Contact Form
 form:
     name: alyvix_service
     fields:
@@ -20,17 +20,21 @@ form:
             rule: email
             required: true
 
+        - name: service_request
+          label: Service request
+          default: Enterprise Plus subscription
+          type: text
+          readonly: true
+
         - name: message
           label: Message
           size: long
           placeholder: Enter your message
           type: textarea
-          validate:
-            required: true
 
     buttons:
         - type: submit
-          value: Submit
+          value: Send the service request
           classes: gdlr-button with-border excerpt-read-more
 
     process:
@@ -39,7 +43,7 @@ form:
               - "{{ config.plugins.email.from }}"
             to:
               - "{{ config.plugins.email.to }}"
-            subject: "[Alyvix|Lead] Service request from {{ form.value.name|e }}"
+            subject: "[Alyvix|Lead] Service request | Enterprise Plus subscription"
             body: "{% include 'forms/data.html.twig' %}"
         - save:
             fileprefix: contact_form_
@@ -49,3 +53,9 @@ form:
         - message: Thank you for contacting us!
         - display: thank_you
 ---
+
+## **Enterprise Plus** Subscription
+
+Service and support for **12 probes** and *50 test cases* at **€16.500/yr**.
+
+Please, **fill in the form** below and **send the service request** to us:
