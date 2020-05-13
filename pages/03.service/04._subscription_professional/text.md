@@ -8,6 +8,6 @@ image_align: right
 
 A full-fledged visual monitoring solution for business critical workflows
 
-Service and support for **5 probes** and *15 test cases*
+Service and support for **5 probes**, *15 test cases* and all the other [subscription features](#plans)
 
-[**€6.600/yr** fill in the form](..\_subscription_professional\contact_us?classes=btn,btn-primary,btn-lg)
+[**€6.600/yr** fill in the form](..\_subscription_professional\contact_form?classes=btn,btn-primary,btn-lg)
