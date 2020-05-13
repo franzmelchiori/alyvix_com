@@ -29,49 +29,49 @@ menu: Plans
             <td>50</td>
         </tr>
         <tr>
-            <th style="text-align:right">Windows sessions (per probe)</th>
-            <td>1</td>
-            <td>>1</td>
-            <td>>1</td>
-            <td>>1</td>
+            <th style="text-align:right">Windows multisession</th>
+            <td>&#x2717;</td>
+            <td>&#x2713;</td>
+            <td>&#x2713;</td>
+            <td>&#x2713;</td>
         </tr>
         <tr>
-            <th style="text-align:right">Supported incidents (per year)</th>
-            <td>5</td>
-            <td>15</td>
-            <td>25</td>
-            <td>45</td>
+            <th style="text-align:right">Supported incidents</th>
+            <td>5/y</td>
+            <td>15/y</td>
+            <td>25/y</td>
+            <td>45/y</td>
         </tr>
         <tr>
-            <th style="text-align:right">Normal response latency [hours]</th>
-            <td>6</td>
-            <td>4</td>
-            <td>4</td>
-            <td>2</td>
+            <th style="text-align:right">Normal response</th>
+            <td>6h</td>
+            <td>4h</td>
+            <td>4h</td>
+            <td>2h</td>
         </tr>
         <tr>
-            <th style="text-align:right">Critical response latency [hours]</th>
-            <td>4</td>
-            <td>2</td>
-            <td>2</td>
-            <td>1</td>
+            <th style="text-align:right">Critical response</th>
+            <td>4h</td>
+            <td>2h</td>
+            <td>2h</td>
+            <td>1h</td>
         </tr>
         <tr>
-            <th style="text-align:right">Service requests (per year)</th>
-            <td>5</td>
-            <td>15</td>
-            <td>25</td>
-            <td>45</td>
+            <th style="text-align:right">Service requests</th>
+            <td>5/y</td>
+            <td>15/y</td>
+            <td>25/y</td>
+            <td>45/y</td>
         </tr>
         <tr>
-            <th style="text-align:right">Service request latency [hours]</th>
-            <td>8</td>
-            <td>4</td>
-            <td>4</td>
-            <td>2</td>
+            <th style="text-align:right">Service response</th>
+            <td>8h</td>
+            <td>4h</td>
+            <td>4h</td>
+            <td>2h</td>
         </tr>
         <tr>
-            <th style="text-align:right">Authorized people to support</th>
+            <th style="text-align:right">Supported people</th>
             <td>1</td>
             <td>2</td>
             <td>3</td>
@@ -84,5 +84,5 @@ menu: Plans
             <td>&#x2717;</td>
             <td>&#x2713;</td>
         </tr>
-  </table>
+    </table>
 </div>
