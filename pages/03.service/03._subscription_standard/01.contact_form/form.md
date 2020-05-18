@@ -106,7 +106,7 @@ Service and support for **1 probe**, *3 test cases* and the following *subscript
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;"></th>
-            <td style="text-align:center;"><b>€2.860/yr</b></td>
+            <td style="text-align:center;"><b>€2.860/y</b></td>
         </tr>
     </table>
     <br>

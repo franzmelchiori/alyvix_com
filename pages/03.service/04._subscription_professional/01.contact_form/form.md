@@ -106,7 +106,7 @@ Service and support for **5 probes**, *15 test cases* and the following *subscri
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;"></th>
-            <td style="text-align:center;"><b>€6.600/yr</b></td>
+            <td style="text-align:center;"><b>€6.600/y</b></td>
         </tr>
     </table>
     <br>
