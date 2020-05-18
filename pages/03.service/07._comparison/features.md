@@ -9,10 +9,10 @@ menu: Plans
     <table style="margin-left:auto;margin-right:auto;border-collapse:collapse">
         <tr>
             <th style="background-color:white;"></th>
-            <th style="padding:0 25px 0 25px;">Standard</th>
-            <th style="padding:0 25px 0 25px;">Professional</th>
-            <th style="padding:0 25px 0 25px;">Enterprise</th>
-            <th style="padding:0 25px 0 25px;">Enterprise Plus</th>
+            <th><a href="./service#standard">Standard</a></th>
+            <th><a href="./service#professional">Professional</a></th>
+            <th><a href="./service#enterprise">Enterprise</a></th>
+            <th><a href="./service#enterprise-plus">Enterprise Plus</a></th>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Supported probes</th>
@@ -83,6 +83,20 @@ menu: Plans
             <td style="color:red">&#x2717;</td>
             <td style="color:red">&#x2717;</td>
             <td style="color:green">&#x2713;</td>
+        </tr>
+        <tr style="background-color:#f8f9fa;">
+            <th style="background-color:white;"></th>
+            <td><b>€2.860/y</b></td>
+            <td><b>€6.600/y</b></td>
+            <td><b>€11.000/y</b></td>
+            <td><b>€16.500/y</b></td>
+        </tr>
+        <tr>
+            <th style="background-color:white;"></th>
+            <td><a href="./service/_subscription_standard/contact_form" class="btn btn-primary btn-lg" target="_blank">Fill in the form</a></td>
+            <td><a href="./service/_subscription_professional/contact_form" class="btn btn-primary btn-lg" target="_blank">Fill in the form</a></td>
+            <td><a href="./service/_subscription_enterprise/contact_form" class="btn btn-success btn-lg" target="_blank">Fill in the form</a></td>
+            <td><a href="./service/_subscription_enterprise_plus/contact_form" class="btn btn-success btn-lg" target="_blank">Fill in the form</a></td>
         </tr>
     </table>
 </div>
