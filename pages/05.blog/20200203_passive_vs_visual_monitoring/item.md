@@ -8,10 +8,10 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [windows, virtual machine, rdp, rdc, it service, visual monitoring, real user monitoring]
+    tag: [virtual machine, windows, it service, passive monitoring, real user monitoring]
 ---
 
-Abstract.
+Real User Monitoring and Visual Monitoring are both user-centric strategies to ensure that quality metrics important to users are maintained. Their underlying methodology, however, is different, leading to a separate set of advantages and disadvantages for each approach. The proactive nature of visual monitoring can help you discover and remedy problems before users even notice them.
 
 ===
 

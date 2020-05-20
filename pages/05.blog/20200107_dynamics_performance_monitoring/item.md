@@ -8,10 +8,10 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [windows, virtual machine, rdp, rdc, it service, performance monitoring]
+    tag: [virtual machine, windows, dynamics, it service, performance monitoring]
 ---
 
-Abstract.
+The Alyvix visual monitoring system helps you proactively find problems that would lower the usability of your IT services by monitoring factors such as availability and responsiveness. By tracking the results over time, it can also detect worsening trends that may not otherwise be noticed. Here we describe two real world examples cases illustrating actual problems that occurred and how they were resolved.
 
 ===
 
@@ -33,7 +33,7 @@ One customer implemented Alyvix in a MS Dynamics environment, monitoring over RD
 
 The following screenshot of the monthly trend lets you immediately see the continual increase in response time:
 
-<!-- ![Monitoring](performance-monitoring.png) -->
+![](alyvix_blog_article_dynamics_performance_monitoring_01.png)
 
 This illustrates the proactive function of Alyvix, especially when integrated in a monitoring system. Why? Because users hadn’t even started complaining. They hadn't even realized there was a problem yet. The decreases in responsiveness were so slow and gradual that they just continually rehabituated themselves. Of course, eventually they would complain, but when? After one more month of reduced productivity?
 
@@ -50,7 +50,7 @@ After the change, there was both a significant immediate improvement as well as 
 
 After some fixes, zooming in on the performance dashboard shows that the loading times are significantly lower (from 45 seconds to 10, at the green circle).
 
-<!-- ![Monitoring](alyvix-performance-1024x465.png) -->
+![](alyvix_blog_article_dynamics_performance_monitoring_02.png)
 
 
 ### Results
@@ -61,8 +61,6 @@ We thus implemented some automated cleaning scripts on the terminal servers to i
 
 
 ## Adding a Missing Business-Critical Test Case
-
-<!-- Transition paragraph: Another.. -->
 
 ERP systems (e.g., Dynamics) are fundamental for companies: they automate and integrate core business processes, such as taking customer orders, scheduling operations, and keeping inventory records and financial data.
 
@@ -84,7 +82,7 @@ The change in loading time performance was significant, rising from the typical 
 
 We discovered that a consultant had started a procedure that was too demanding for the company's IT infrastructure, preventing Dynamics from operating correctly. It seemed as if there had been an increase in the number of Dynamics users, and an exponential increase in the number of transactions:
 
-<!-- ![AX Monitoring](Microsoft-Dynamics-AX1-1024x458.png) -->
+![](alyvix_blog_article_dynamics_performance_monitoring_03.png)
 
 The company thus decided to build another Alyvix test case so they could also monitor this "new" business-critical transaction, which had badly affected the company's productivity.
 
