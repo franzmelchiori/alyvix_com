@@ -32,6 +32,10 @@ form:
           placeholder: Enter your message
           type: textarea
 
+        - name: g-recaptcha-response:
+          label: Captcha
+          type: captcha
+
     buttons:
         - type: submit
           value: Send the service request
@@ -52,6 +56,7 @@ form:
             body: "{% include 'forms/data.txt.twig' %}"
         - message: Thank you for contacting us!
         - display: thank_you
+        - captcha: true
 ---
 
 ## **Standard** Subscription
