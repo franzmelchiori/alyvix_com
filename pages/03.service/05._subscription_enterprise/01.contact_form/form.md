@@ -26,6 +26,25 @@ form:
           type: text
           readonly: true
 
+        - name: agree_to_terms:
+          type: checkbox
+          label: "I would like to integrate Alyvix with my current monitoring system"
+          validate:
+            required: false
+
+        - name: pages.order.by
+          type: select
+          size: long
+          classes: fancy
+          label: 'How did you find out about Alyvix?'
+          options:
+            default: "I don't remember"
+            source_1: 'Web search'
+            source_2: 'Social channel'
+            source_3: 'Commercial contact'
+            source_4: 'Partner or customer suggestion'
+            source_5: 'Industry conference'
+
         - name: message
           label: Message
           size: long
