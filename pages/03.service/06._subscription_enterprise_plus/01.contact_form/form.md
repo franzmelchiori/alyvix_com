@@ -38,12 +38,12 @@ form:
           classes: fancy
           label: 'How did you find out about Alyvix?'
           options:
-            default: "I don't remember"
-            source_1: 'Web search'
-            source_2: 'Social channel'
-            source_3: 'Commercial contact'
-            source_4: 'Partner or customer suggestion'
-            source_5: 'Industry conference'
+            0_none: "I'm sorry, but I don't remember"
+            1_web: 'Web search'
+            2_social: 'Social channel'
+            3_business: 'Business contact'
+            4_suggestion: 'Partner or customer suggestion'
+            5_conference: 'Industry conference'
 
         - name: message
           label: Message
