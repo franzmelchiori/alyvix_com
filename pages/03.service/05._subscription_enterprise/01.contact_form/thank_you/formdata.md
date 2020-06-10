@@ -1,5 +1,5 @@
 ---
-title: Alyvix Service | Standard Subscription | Contact Form | Thank you!
+title: Alyvix Service | Enterprise Subscription | Contact Form | Thank you!
 ---
 
 **Your email was sent.** We will answer shortly!
