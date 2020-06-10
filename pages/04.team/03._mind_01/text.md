@@ -5,7 +5,7 @@ image_align: right
 ---
 
 ## **Georg** Kostner
-*Business Developer*
+*Business Manager*
 
 <a href="https://twitter.com/georgkostner?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @georgkostner</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
