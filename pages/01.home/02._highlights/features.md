@@ -1,5 +1,5 @@
 ---
-title: Alyvix 
+title: Alyvix Highlights
 menu: Highlights
 class: offset-box
 features:

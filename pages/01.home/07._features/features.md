@@ -1,5 +1,5 @@
 ---
-title: Homepage Features
+title: Alyvix Features
 menu: Features
 class: small
 published: true
