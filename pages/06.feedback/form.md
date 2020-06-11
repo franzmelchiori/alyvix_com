@@ -31,7 +31,7 @@ form:
 
         - name: test_case_building_sentiment:
           type: radio
-          label: How do you feel about the test case building?
+          label: How do you feel about test case building?
           options:
               good_score: Good &#x1F44D;
               ok_score: Ok
