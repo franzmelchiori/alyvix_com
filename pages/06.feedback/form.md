@@ -46,10 +46,23 @@ form:
               poor_score: Poor &#x1F44E;
           default: ok_score
 
+        - name: name
+          label: Name
+          placeholder: I want to remain anonymous
+          autocomplete: on
+          type: text
+
+        - name: email
+          label: Email
+          placeholder: I don't want to be contacted
+          type: text
+          validate:
+            rule: email
+
         - name: message
           label: Feel free to leave a message on any topic:
           size: long
-          placeholder: Enter your message
+          placeholder: I have nothing to add
           type: textarea
 
         - name: g-recaptcha-response:
