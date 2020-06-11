@@ -96,7 +96,7 @@ menu: Plans
             <td><a href="./service/_subscription_standard/contact_form" class="btn btn-primary btn-lg" target="_blank">Fill in the form</a></td>
             <td><a href="./service/_subscription_professional/contact_form" class="btn btn-primary btn-lg" target="_blank">Fill in the form</a></td>
             <td><a href="./service/_subscription_enterprise/contact_form" class="btn btn-success btn-lg" target="_blank">Fill in the form</a></td>
-            <td><a href="./service/_subscription_enterprise_plus/contact_form" class="btn btn-success btn-lg" target="_blank">Fill in the form</a></td>
+            <td><a href="./service/_subscription_plus/contact_form" class="btn btn-success btn-lg" target="_blank">Fill in the form</a></td>
         </tr>
     </table>
 </div>
