@@ -48,7 +48,7 @@ form:
           default: ok_score
 
         - name: message
-          label: Feel free to leave any kind of message:
+          label: Feel free to leave a message on any topic:
           size: long
           placeholder: Enter your message
           type: textarea
@@ -59,7 +59,7 @@ form:
 
     buttons:
         - type: submit
-          value: Send the feedback
+          value: Send your feedback
           classes: gdlr-button with-border excerpt-read-more
 
     process:
