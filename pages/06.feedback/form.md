@@ -15,7 +15,6 @@ form:
               3_score: 3 Ok &#x1F642;
               2_score: 2
               1_score: 1 Bad &#x1F629;
-              0_score: 0
           default: 3_score
           validate:
             required: true
