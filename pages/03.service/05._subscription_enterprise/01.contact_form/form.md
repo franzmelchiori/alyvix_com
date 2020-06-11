@@ -73,7 +73,7 @@ form:
             dateformat: Ymd_His
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
-        - message: Thank you for contacting us!
+        - message: Your email was sent. We will answer shortly!
         - display: thank_you
         - captcha: true
 ---

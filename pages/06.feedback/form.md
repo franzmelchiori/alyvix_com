@@ -80,14 +80,14 @@ form:
               - "{{ config.plugins.email.from }}"
             to:
               - "{{ config.plugins.email.to }}"
-            subject: "[Alyvix|Lead] Service request | Standard Subscription"
+            subject: "[Alyvix|Market] Feedback"
             body: "{% include 'forms/data.html.twig' %}"
         - save:
             fileprefix: contact_form_
             dateformat: Ymd_His
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
-        - message: Thank you for contacting us!
+        - message: Your feedback was sent.
         - display: thank_you
         - captcha: true
 ---

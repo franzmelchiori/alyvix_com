@@ -2,4 +2,4 @@
 title: Alyvix Service | Professional Subscription | Contact Form | Thank you!
 ---
 
-**Your email was sent.** We will answer shortly!
+**Thank you!**
