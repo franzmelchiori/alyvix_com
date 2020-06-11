@@ -8,7 +8,7 @@ form:
     fields:
         - name: overall_product_rate:
           type: radio
-          label: Please, rate Alyvix overall:
+          label: Please rate Alyvix overall:
           options:
               5_score: 5 Great &#x1F604;
               4_score: 4
@@ -22,7 +22,7 @@ form:
 
         - name: visual_transaction_definition_sentiment:
           type: radio
-          label: What's your sentiment about the visual transaction definition?
+          label: How do you feel about the visual transaction definition?
           options:
               good_score: Good &#x1F44D;
               ok_score: Ok
@@ -31,7 +31,7 @@ form:
 
         - name: test_case_building_sentiment:
           type: radio
-          label: What's your sentiment about the test case building?
+          label: How do you feel about the test case building?
           options:
               good_score: Good &#x1F44D;
               ok_score: Ok
@@ -40,7 +40,7 @@ form:
 
         - name: performance_transaction_measures_sentiment:
           type: radio
-          label: What's your sentiment about the performance transaction measures?
+          label: How do you feel about the performance transaction measures?
           options:
               good_score: Good &#x1F44D;
               ok_score: Ok
@@ -82,4 +82,4 @@ form:
 
 ## Product **Feedback**
 
-Your candid feedback power our engines.
+Your candid feedback powers our engines.
