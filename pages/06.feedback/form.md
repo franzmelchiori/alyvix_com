@@ -20,8 +20,35 @@ form:
           validate:
             required: true
 
+        - name: visual_transaction_definition_sentiment:
+          type: radio
+          label: What's your sentiment about the visual transaction definition?
+          options:
+              good_score: Good &#x1F44D;
+              ok_score: Ok
+              poor_score: Poor &#x1F44E;
+          default: ok_score
+
+        - name: test_case_building_sentiment:
+          type: radio
+          label: What's your sentiment about the test case building?
+          options:
+              good_score: Good &#x1F44D;
+              ok_score: Ok
+              poor_score: Poor &#x1F44E;
+          default: ok_score
+
+        - name: performance_transaction_measures_sentiment:
+          type: radio
+          label: What's your sentiment about the performance transaction measures?
+          options:
+              good_score: Good &#x1F44D;
+              ok_score: Ok
+              poor_score: Poor &#x1F44E;
+          default: ok_score
+
         - name: message
-          label: Please, feel free to leave any kind of message:
+          label: Feel free to leave any kind of message:
           size: long
           placeholder: Enter your message
           type: textarea
