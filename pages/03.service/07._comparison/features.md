@@ -22,13 +22,6 @@ menu: Plans
             <td><b>12</b></td>
         </tr>
         <tr style="background-color:#f8f9fa;">
-            <th style="text-align:right;white-space:nowrap;">Supported test cases</th>
-            <td><em>3</em></td>
-            <td><em>15</em></td>
-            <td><em>30</em></td>
-            <td><em>50</em></td>
-        </tr>
-        <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Windows multisession</th>
             <td style="color:red">&#x2717;</td>
             <td style="color:green">&#x2713;</td>

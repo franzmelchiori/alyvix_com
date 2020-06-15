@@ -80,7 +80,7 @@ form:
 
 ## **Standard** Subscription
 
-Service and support for **1 probe**, *3 test cases* and the following *subscription features*:
+Service and support for **1 probe** and the following *subscription features*:
 
 <div style="overflow-x:auto;">
     <table style="margin-left:auto;margin-right:auto;border-collapse:collapse">
@@ -91,10 +91,6 @@ Service and support for **1 probe**, *3 test cases* and the following *subscript
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Supported probes</th>
             <td style="text-align:center;"><b>1</b></td>
-        </tr>
-        <tr style="background-color:#f8f9fa;">
-            <th style="text-align:right;white-space:nowrap;">Supported test cases</th>
-            <td style="text-align:center;"><em>3</em></td>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Windows multisession</th>

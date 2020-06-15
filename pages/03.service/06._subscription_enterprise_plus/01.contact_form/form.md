@@ -93,10 +93,6 @@ Service and support for **12 probes**, *50 test cases* and the following *subscr
             <td style="text-align:center;"><b>12</b></td>
         </tr>
         <tr style="background-color:#f8f9fa;">
-            <th style="text-align:right;white-space:nowrap;">Supported test cases</th>
-            <td style="text-align:center;"><em>50</em></td>
-        </tr>
-        <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Windows multisession</th>
             <td style="text-align:center;color:green;">&#x2713;</td>
         </tr>
