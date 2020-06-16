@@ -24,9 +24,9 @@ menu: Plans
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Windows multisession</th>
             <td style="color:red">&#x2717;</td>
-            <td style="color:green">&#x2713;</td>
-            <td style="color:green">&#x2713;</td>
-            <td style="color:green">&#x2713;</td>
+            <td style="color:green">&#x2713;5</td>
+            <td style="color:green">&#x2713;10</td>
+            <td style="color:green">&#x2713;15</td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Supported incidents</th>
@@ -72,10 +72,10 @@ menu: Plans
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Remote training</th>
-            <td style="color:red">&#x2717;</td>
-            <td style="color:red">&#x2717;</td>
-            <td style="color:red">&#x2717;</td>
-            <td style="color:green">&#x2713;</td>
+            <td style="color:red">extra</td>
+            <td style="color:red">extra</td>
+            <td style="color:red">extra</td>
+            <td style="color:green">included</td>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="background-color:white;"></th>
