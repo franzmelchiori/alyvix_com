@@ -72,10 +72,10 @@ menu: Plans
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Remote training</th>
-            <td style="color:red">extra</td>
-            <td style="color:red">extra</td>
-            <td style="color:red">extra</td>
-            <td style="color:green">included</td>
+            <td style="color:red">&#x2717;extra</td>
+            <td style="color:red">&#x2717;extra</td>
+            <td style="color:red">&#x2717;extra</td>
+            <td style="color:green">&#x2713;included</td>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="background-color:white;"></th>
