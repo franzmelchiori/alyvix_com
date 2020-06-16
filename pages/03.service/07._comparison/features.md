@@ -23,7 +23,7 @@ menu: Plans
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Windows multisession</th>
-            <td style="color:red">&#x2717;</td>
+            <td style="color:red">&#x2717;1</td>
             <td style="color:green">&#x2713;5</td>
             <td style="color:green">&#x2713;10</td>
             <td style="color:green">&#x2713;15</td>
