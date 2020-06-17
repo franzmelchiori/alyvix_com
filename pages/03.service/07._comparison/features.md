@@ -15,74 +15,74 @@ menu: Plans
             <th><a href="./service#enterprise-plus">Enterprise Plus</a></th>
         </tr>
         <tr style="background-color:#f8f9fa;">
-            <th style="text-align:right;white-space:nowrap;">Supported probes</th>
-            <td><b>1</b></td>
-            <td><b>5</b></td>
-            <td><b>8</b></td>
-            <td><b>12</b></td>
+            <th style="text-align:right;white-space:nowrap;">Alyvix Server<sup>1</sup></th>
+            <td><b>1 instance</b></td>
+            <td><b>5 instances</b></td>
+            <td><b>8 instances</b></td>
+            <td><b>12 instances</b></td>
         </tr>
         <tr style="background-color:#f8f9fa;">
-            <th style="text-align:right;white-space:nowrap;">Windows multisession</th>
-            <td style="color:red">&#x2717;1</td>
-            <td style="color:green">&#x2713;5</td>
-            <td style="color:green">&#x2713;10</td>
-            <td style="color:green">&#x2713;15</td>
+            <th style="text-align:right;white-space:nowrap;">Windows sessions<sup>2</sup></th>
+            <td style="color:red">&#x2717;1/instance</td>
+            <td style="color:green">&#x2713;5/instance</td>
+            <td style="color:green">&#x2713;10/instance</td>
+            <td style="color:green">&#x2713;15/instance</td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Supported incidents</th>
-            <td>5/y</td>
-            <td>15/y</td>
-            <td>25/y</td>
-            <td>45/y</td>
+            <td>5/year</td>
+            <td>15/year</td>
+            <td>25/year</td>
+            <td>45/year</td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Normal response</th>
-            <td>6h</td>
-            <td>4h</td>
-            <td>4h</td>
-            <td>2h</td>
+            <td>6 hours</td>
+            <td>4 hours</td>
+            <td>4 hours</td>
+            <td>2 hours</td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Critical response</th>
-            <td>4h</td>
-            <td>2h</td>
-            <td>2h</td>
-            <td>1h</td>
+            <td>4 hours</td>
+            <td>2 hours</td>
+            <td>2 hours</td>
+            <td>1 hour</td>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Service requests</th>
-            <td>5/y</td>
-            <td>15/y</td>
-            <td>25/y</td>
-            <td>45/y</td>
+            <td>5/year</td>
+            <td>15/year</td>
+            <td>25/year</td>
+            <td>45/year</td>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Service response</th>
-            <td>8h</td>
-            <td>4h</td>
-            <td>4h</td>
-            <td>2h</td>
+            <td>8 hours</td>
+            <td>4 hours</td>
+            <td>4 hours</td>
+            <td>2 hours</td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Supported people</th>
-            <td>1</td>
-            <td>2</td>
-            <td>3</td>
-            <td>>3</td>
+            <td>1 person</td>
+            <td>2 people</td>
+            <td>3 people</td>
+            <td>>3 people</td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Remote training</th>
-            <td style="color:red">&#x2717;extra/d</td>
-            <td style="color:red">&#x2717;extra/d</td>
-            <td style="color:red">&#x2717;extra/d</td>
+            <td style="color:red">&#x2717;extra/day</td>
+            <td style="color:red">&#x2717;extra/day</td>
+            <td style="color:red">&#x2717;extra/day</td>
             <td style="color:green">&#x2713;included</td>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="background-color:white;"></th>
-            <td><b>€2.860/y</b></td>
-            <td><b>€6.600/y</b></td>
-            <td><b>€11.000/y</b></td>
-            <td><b>€16.500/y</b></td>
+            <td><b>€2.860/year</b></td>
+            <td><b>€6.600/year</b></td>
+            <td><b>€11.000/year</b></td>
+            <td><b>€16.500/year</b></td>
         </tr>
         <tr>
             <th style="background-color:white;"></th>
@@ -92,4 +92,8 @@ menu: Plans
             <td><a href="./service/_subscription_enterprise_plus/contact_form" class="btn btn-success btn-lg" target="_blank">Fill in the form</a></td>
         </tr>
     </table>
-</div>
+</div><br>
+
+<font size="1">1. Alyvix Server is a Windows service installed on a Windows 64-bit OS where English is the recommended language. <i>Microsoft licences are not included in the subscription.</i></font><br>
+
+<font size="1">2. Windows Terminal Server is required when managing more than 1 Windows session with Alyvix Server. <i>Microsoft licences are not included in the subscription.</i></font>
