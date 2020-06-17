@@ -80,7 +80,7 @@ form:
 
 ## **Professional** Subscription
 
-Service and support for **5 probes** and the following *subscription features*:
+Service and support for **5 Alyvix Server** instances and the following *subscription features*:
 
 <div style="overflow-x:auto;">
     <table style="margin-left:auto;margin-right:auto;border-collapse:collapse">
