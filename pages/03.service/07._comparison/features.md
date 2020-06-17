@@ -23,10 +23,10 @@ menu: Plans
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Windows sessions<sup>2</sup></th>
-            <td style="color:red">&#x2717;1/instance</td>
-            <td style="color:green">&#x2713;5/instance</td>
-            <td style="color:green">&#x2713;10/instance</td>
-            <td style="color:green">&#x2713;15/instance</td>
+            <td><b>1/instance</b></td>
+            <td><b>5/instance</b></td>
+            <td><b>10/instance</b></td>
+            <td><b>15/instance</b></td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Supported incidents</th>
@@ -72,17 +72,17 @@ menu: Plans
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Remote training</th>
-            <td style="color:red">&#x2717;extra/day</td>
-            <td style="color:red">&#x2717;extra/day</td>
-            <td style="color:red">&#x2717;extra/day</td>
-            <td style="color:green">&#x2713;included</td>
+            <td style="color:red">&#x2717; extra €/day</td>
+            <td style="color:red">&#x2717; extra €/day</td>
+            <td style="color:red">&#x2717; extra €/day</td>
+            <td style="color:green">&#x2713; included</td>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="background-color:white;"></th>
-            <td><b>€2.860/year</b></td>
-            <td><b>€6.600/year</b></td>
-            <td><b>€11.000/year</b></td>
-            <td><b>€16.500/year</b></td>
+            <td><b>2.860 €/year</b></td>
+            <td><b>6.600 €/year</b></td>
+            <td><b>11.000 €/year</b></td>
+            <td><b>16.500 €/year</b></td>
         </tr>
         <tr>
             <th style="background-color:white;"></th>

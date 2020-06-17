@@ -94,7 +94,7 @@ Service and support for **1 Alyvix Server** instance and the following *subscrip
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Windows sessions<sup>2</sup></th>
-            <td style="text-align:center;color:red;">&#x2717;1/instance</td>
+            <td style="text-align:center;"><b>1/instance</b></td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Supported incidents</th>
@@ -122,18 +122,21 @@ Service and support for **1 Alyvix Server** instance and the following *subscrip
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Remote training</th>
-            <td style="text-align:center;color:red">&#x2717;extra/day</td>
+            <td style="text-align:center;color:red">&#x2717; extra €/day</td>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="background-color:white;"></th>
-            <td style="text-align:center;"><b>€2.860/y</b></td>
+            <td style="text-align:center;"><b>2.860 €/year</b></td>
         </tr>
     </table>
-    <br>
+<br>
 </div>
 
-<font size="1">1. Alyvix Server is a Windows service installed on a Windows 64-bit OS where English is the recommended language. <i>Microsoft licences are not included in the subscription.</i></font><br>
+<div style="text-align:center;">
+    <font size="1">1. Alyvix Server is a Windows service installed on a Windows 64-bit OS where English is the recommended language. <i>Microsoft licences are not included in the subscription.</i></font><br>
 
-<font size="1">2. Windows Terminal Server is required when managing more than 1 Windows session with Alyvix Server. <i>Microsoft licences are not included in the subscription.</i></font>
+    <font size="1">2. Windows Terminal Server is required when managing more than 1 Windows session with Alyvix Server. <i>Microsoft licences are not included in the subscription.</i></font><br>
+<br>
+</div>
 
 Please, **fill in the form** below and **send the service request** to us:

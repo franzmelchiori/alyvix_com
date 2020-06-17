@@ -89,47 +89,54 @@ Service and support for **5 Alyvix Server** instances and the following *subscri
             <th style="padding:0 25px 0 25px;">Professional</th>
         </tr>
         <tr style="background-color:#f8f9fa;">
-            <th style="text-align:right;white-space:nowrap;">Supported probes</th>
-            <td style="text-align:center;"><b>5</b></td>
+            <th style="text-align:right;white-space:nowrap;">Alyvix Server<sup>1</sup></th>
+            <td style="text-align:center;"><b>5 instance</b></td>
         </tr>
         <tr style="background-color:#f8f9fa;">
-            <th style="text-align:right;white-space:nowrap;">Windows multisession</th>
-            <td style="text-align:center;color:green;">&#x2713;</td>
+            <th style="text-align:right;white-space:nowrap;">Windows sessions<sup>2</sup></th>
+            <td style="text-align:center;"><b>5/instance</b></td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Supported incidents</th>
-            <td style="text-align:center;">15/y</td>
+            <td style="text-align:center;">15/year</td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Normal response</th>
-            <td style="text-align:center;">4h</td>
+            <td style="text-align:center;">4 hours</td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Critical response</th>
-            <td style="text-align:center;">2h</td>
+            <td style="text-align:center;">2 hours</td>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Service requests</th>
-            <td style="text-align:center;">15/y</td>
+            <td style="text-align:center;">15/year</td>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Service response</th>
-            <td style="text-align:center;">4h</td>
+            <td style="text-align:center;">4 hours</td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Supported people</th>
-            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">2 person</td>
         </tr>
         <tr>
             <th style="text-align:right;white-space:nowrap;">Remote training</th>
-            <td style="text-align:center;color:red">&#x2717;</td>
+            <td style="text-align:center;color:red">&#x2717; extra €/day</td>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="background-color:white;"></th>
-            <td style="text-align:center;"><b>€6.600/y</b></td>
+            <td style="text-align:center;"><b>6.600 €/year</b></td>
         </tr>
     </table>
-    <br>
+<br>
+</div>
+
+<div style="text-align:center;">
+    <font size="1">1. Alyvix Server is a Windows service installed on a Windows 64-bit OS where English is the recommended language. <i>Microsoft licences are not included in the subscription.</i></font><br>
+
+    <font size="1">2. Windows Terminal Server is required when managing more than 1 Windows session with Alyvix Server. <i>Microsoft licences are not included in the subscription.</i></font><br>
+<br>
 </div>
 
 Please, **fill in the form** below and **send the service request** to us:
