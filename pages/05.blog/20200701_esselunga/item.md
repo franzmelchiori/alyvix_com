@@ -11,7 +11,7 @@ taxonomy:
     tag: [website, online shopping, end user monitoring, covid-19, emergency]
 ---
 
-The COVID-19 epidemic had significant effects on Italians waiting in lockdown. Alyvix can be applied to one of these problems, the need to buy necessary supplies when online stores are restricting use of their web sites to avoid more demand than their systems can handle. Alyvix can monitor web sites and inform you when a change occurs that you need to act on.
+The Covid-19 epidemic had significant effects on Italians during the national lockdown this spring. It also resulted in significant, unpredictable effects on e-commerce throughout Italy, especially in terms of the physical delivery of packages. When web sites added slot-based reservation mechanisms to their ordering process to keep demand at sustainable levels, it turned out that Alyvix could be a big help.
 
 
 ===
