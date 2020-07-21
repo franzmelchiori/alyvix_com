@@ -16,4 +16,4 @@ Click Clock
 
 Alyvix is an **open source APM software tool** for visual monitoring.
 
-[**Get Started** with **Alyvix** 3.1.0](https://alyvix.com/learn/getting_started.html?classes=btn,btn-success,btn-lg&target=_blank)
+[**Get Started** with **Alyvix 3.1.0**](https://alyvix.com/learn/getting_started.html?classes=btn,btn-success,btn-lg&target=_blank)
