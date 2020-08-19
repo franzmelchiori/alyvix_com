@@ -8,5 +8,5 @@ hero_image: alyvix_service.jpg
 hero_classes: text-dark overlay-light parallax
 -->
 
-# Flexible plans
-## suited to your business
+# Scale Up Visual Monitoring
+## Clever Business
