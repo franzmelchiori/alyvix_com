@@ -105,3 +105,5 @@ The Fail script is run before the Exit script if any test case node in either th
 In this article we created a full Alyvix test case that monitors Dynamic AX, including printing an invoice in Accounts Payable and looping over requests for details on inventory items. When we run the test case in Alyvix Robot, it displays the timing results for the steps we requested.
 
 ![timing results](alyvix_tutorial_dynamics_ax_06.png)
+
+<iframe width="288" height="162" src="https://www.youtube.com/embed/UhZMxzINe6k?color=white&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
