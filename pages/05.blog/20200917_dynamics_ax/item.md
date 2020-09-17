@@ -1,5 +1,5 @@
 ---
-title: Monitoring Dynamics AX Visually
+title: Monitoring Microsoft Dynamics AX Visually
 date: 18:00 09/17/2020
 
 hero_classes: parallax text-light title-h1h2 overlay-dark-gradient hero-large
@@ -12,15 +12,15 @@ taxonomy:
 ---
 
 
-Monitoring installations of Dynamics AX 2012 from a user perspective is important because of the widespread use and importance of AX to business activities. We show how to build a test case to inspect and measure two common tasks within AX: invoice printing within Accounts Payable, and inventory control. An accompanying video in our channel provides further details for those wishing to construct a similar test case themselves.
+Monitoring installations of Microsoft Dynamics AX 2012 from a user perspective is important because of the widespread use and importance of AX to business activities. We show how to build a test case to inspect and measure two common tasks within AX: invoice printing within Accounts Payable, and inventory control. An accompanying video in our channel provides further details for those wishing to construct a similar test case themselves.
 
 
 ===
 
 
-## Monitoring Dynamics AX Visually
+## Monitoring Microsoft Dynamics AX Visually
 
-Monitoring installations of Dynamics AX 2012 from a user perspective is important because of the widespread use and importance of AX to business activities. In this article we'll look at what it takes to build a complete visual monitoring run for Dynamics AX using Alyvix, looking in particular at the tasks of printing invoices in Accounts Payable and looping over stock items in Inventory Management.
+Monitoring installations of Microsoft Dynamics AX 2012 from a user perspective is important because of the widespread use and importance of AX to business activities. In this article we'll look at what it takes to build a complete visual monitoring run for Microsoft Dynamics AX using Alyvix, looking in particular at the tasks of printing invoices in Accounts Payable and looping over stock items in Inventory Management.
 
 In particular, we will show Alyvix how to navigate to the Open Vendor Invoices database, setting a filter for a specific invoice, opening the invoice it finds, and checking that the Print Preview functionality is working properly. Next, the test case looks at the Inventory Management section, going to on-hand inventory and opening a single item multiple times to ensure continuous availability. Finally, the test case cleans up after itself by closing all the windows it opened and leaving AX in the same state as when Robot started.
 
@@ -36,7 +36,7 @@ IF FALSE expression.
 
 ![launching AX, maximize, sections - main script](alyvix_tutorial_dynamics_ax_01.png)
 
-Our test case will check two different Dynamics AX modules, so let's create a section, or a subroutine, for each. Let's call them "AccountsPayable" and "Inventory" and add them to the main script.
+Our test case will check two different Microsoft Dynamics AX modules, so let's create a section, or a subroutine, for each. Let's call them "AccountsPayable" and "Inventory" and add them to the main script.
 
 
 ### The Accounts Payable Task
@@ -72,7 +72,7 @@ We've finished our task, but we still have two windows open. We need to close th
 
 ### The Inventory On Hand Task
 
-Just as we did at the beginning of AccountsPayable, we create a step that takes us to the On-Hand Inventory interface in Dynamics AX by finding the address icon, setting its click point to the middle of the address bar, and then inserting the Inventory address as a text string.
+Just as we did at the beginning of AccountsPayable, we create a step that takes us to the On-Hand Inventory interface in Microsoft Dynamics AX by finding the address icon, setting its click point to the middle of the address bar, and then inserting the Inventory address as a text string.
 
 Our Inventory task will be to find a particular item in On-Hand Inventory and check its details three times by opening and closing its details window. We can pick an item just as we did in AccountsPayable by using a filter.
 
@@ -93,7 +93,7 @@ Now we just need the loop itself. Clicking on the add icon next to "InventoryMap
 
 Once the test case finishes, it's important to clean up after ourselves, since we'll likely use Robot to run the test case every few minutes.
 
-The Exit script runs automatically when the main script concludes, whether it finishes successfully or not. In our case we need to closes Dynamics AX and disconnect from the Windows Server.
+The Exit script runs automatically when the main script concludes, whether it finishes successfully or not. In our case we need to closes Microsoft Dynamics AX and disconnect from the Windows Server.
 
 ![Exit and fail scripts](alyvix_tutorial_dynamics_ax_05.png)
 
