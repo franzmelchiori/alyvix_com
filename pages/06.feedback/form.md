@@ -1,7 +1,7 @@
 ---
 title: Alyvix Feedback
 menu: Feedback
-redirect: 'https://reviews.capterra.com/new/146702'
+redirect: 'https://review.capterra.com/SS-Alyvix-146702-3634877551-en'
 onpage_menu: false
 visible: false
 form:
