@@ -117,7 +117,7 @@ Service and support for **5 Alyvix Server** instances and the following *subscri
             <td style="text-align:center;">4 hours</td>
         </tr>
         <tr>
-            <th style="text-align:right;white-space:nowrap;">Supported people</th>
+            <th style="text-align:right;white-space:nowrap;">People supported</th>
             <td style="text-align:center;">2 person</td>
         </tr>
         <tr>

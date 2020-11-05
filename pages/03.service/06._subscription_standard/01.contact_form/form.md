@@ -117,7 +117,7 @@ Service and support for **1 Alyvix Server** instance and the following *subscrip
             <td style="text-align:center;">8 hours</td>
         </tr>
         <tr>
-            <th style="text-align:right;white-space:nowrap;">Supported people</th>
+            <th style="text-align:right;white-space:nowrap;">People supported</th>
             <td style="text-align:center;">1 person</td>
         </tr>
         <tr>

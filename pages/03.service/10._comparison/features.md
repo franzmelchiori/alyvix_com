@@ -64,7 +64,7 @@ menu: Plans
             <td>2 hours</td>
         </tr>
         <tr>
-            <th style="text-align:right;white-space:nowrap;">Supported people</th>
+            <th style="text-align:right;white-space:nowrap;">People supported</th>
             <td>1 person</td>
             <td>2 people</td>
             <td>3 people</td>
