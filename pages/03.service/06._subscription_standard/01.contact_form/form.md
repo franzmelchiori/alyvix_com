@@ -80,7 +80,7 @@ form:
 
 ## **Standard** Subscription
 
-Service and support for **1 Alyvix Server** instance and the following *subscription features*:
+Service and support for **1 Alyvix Server** instance, along with the following *subscription features*:
 
 <div style="overflow-x:auto;">
     <table style="margin-left:auto;margin-right:auto;border-collapse:collapse">
