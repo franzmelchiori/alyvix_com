@@ -1,7 +1,7 @@
 ---
 title: Alyvix Plan
 menu: Standard
-image_align: right
+image_align: left
 ---
 
 ## **Standard** Subscription

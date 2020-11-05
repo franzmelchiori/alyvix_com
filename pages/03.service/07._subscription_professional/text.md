@@ -1,7 +1,7 @@
 ---
 title: Alyvix Plan
 menu: Professional
-image_align: right
+image_align: left
 ---
 
 ## **Professional** Subscription
