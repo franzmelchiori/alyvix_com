@@ -2,7 +2,7 @@
 title: Alyvix Service
 menu: Top
 hero_classes: parallax text-light
-hero_image: alyvix_server_visititalia_20200819_50res.gif
+hero_image: alyvix_server_1-2-0_20201109.gif
 ---
 <!--
 hero_classes: text-dark overlay-light parallax
