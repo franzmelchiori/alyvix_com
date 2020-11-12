@@ -90,3 +90,5 @@ The Fail script instead is run immediately before the Exit script whenever a tes
 ### Conclusion
 
 In this article we created a full Alyvix test case that monitors the Warehouse Management module within Microsoft Dynamics AX 2012, including creating an advanced filter and retrieving arguments from the command line. We also described best practices that will help you improve your own Alyvix test cases.
+
+<iframe width="288" height="162" src="https://www.youtube.com/embed/vGNgr7LJkm0?color=white&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
