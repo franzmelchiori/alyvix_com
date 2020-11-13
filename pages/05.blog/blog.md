@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Alyvix Blog
 sitemap:
     changefreq: monthly
 body_classes: title-h1h2 header-dark header-transparent
