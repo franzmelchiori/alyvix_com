@@ -2,6 +2,7 @@
 title: Alyvix Plan
 menu: EnterprisePlus
 image_align: right
+published: false
 ---
 
 ## **Enterprise Plus** Subscription

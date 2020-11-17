@@ -2,6 +2,7 @@
 title: Alyvix Plan
 menu: Professional
 image_align: left
+published: false
 ---
 
 ## **Professional** Subscription

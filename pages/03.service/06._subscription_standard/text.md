@@ -2,6 +2,7 @@
 title: Alyvix Plan
 menu: Standard
 image_align: left
+published: false
 ---
 
 ## **Standard** Subscription
