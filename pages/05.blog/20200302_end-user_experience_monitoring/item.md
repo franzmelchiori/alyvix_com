@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [virtual machine, windows, it service, end user monitoring]
+    tag: [visual monitoring]
 ---
 
 End user experience monitoring continuously tests the performance of business-critical applications from the perspective of end users. It quickly tells you about any degradation in performance, responsiveness, or availability that users may experience. This can help you avoid significant problems that can lead to poor customer satisfaction, lost revenue, and negative brand impact.

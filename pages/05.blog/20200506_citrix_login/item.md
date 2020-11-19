@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [citrix, virtual machine, windows app, login, credentials, encryption, tutorial]
+    tag: [Citrix, login]
 ---
 
 This tutorial shows how to securely log on to a Citrix Gateway in a way that doesn't expose your credentials to public view. It then gives a complete example of how to use Alyvix Cipher and a private key to transform a user name and password into encrypted strings, and then how to use Alyvix Robot to automatically decrypt those strings when it runs the test case.

@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [end user monitoring, visual monitoring, Microsoft, Dynamics AX, General Ledger, groups]
+    tag: [Microsoft Dynamics]
 ---
 
 Microsoft Dynamics AX 2012 plays an important role in the business activities of many companies.  As a user-centered application, its performance from a user perspective is vital because of the many and wide-ranging types of employees who can't get their jobs done when it's not available and responsive.

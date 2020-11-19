@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [end user monitoring, visual monitoring, microsoft dynamics AX, warehouse management]
+    tag: [Microsoft Dynamics]
 ---
 
 

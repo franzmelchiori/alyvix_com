@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [multi-factor authentication, login, credentials, tutorial]
+    tag: [multi-factor authentication, login]
 ---
 
 

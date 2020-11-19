@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [website, online shopping, end user monitoring, covid-19, emergency]
+    tag: [web application]
 ---
 
 The Covid-19 epidemic had significant effects on Italians during the national lockdown this spring. It also resulted in significant, unpredictable effects on e-commerce throughout Italy, especially in terms of the physical delivery of packages. When web sites added slot-based reservation mechanisms to their ordering process to keep demand at sustainable levels, it turned out that Alyvix could be a big help.

@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [it provider, virtual machine, windows desktop, windows app, success story]
+    tag: [Microsoft Remote Desktop, Microsoft Office]
 ---
 
 “Thanks to the simulation of user interactions with our systems, we can guarantee high levels of service for our desktop-centric solution.”

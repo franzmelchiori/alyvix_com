@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [end user monitoring, visual monitoring, Microsoft Dynamics AX]
+    tag: [Microsoft Dynamics]
 ---
 
 
