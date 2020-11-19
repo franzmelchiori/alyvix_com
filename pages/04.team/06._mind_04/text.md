@@ -1,12 +1,10 @@
 ---
 title: Alyvix Mind
-menu: Franco
+menu: Jürgen
 image_align: right
 ---
 
-## **Franco** Federico
+## **Jürgen** Vigna
 *Software Consultant*
 
-<a href="https://twitter.com/franckeffe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @franckeffe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="franco-federico-b361b49"><a class="LI-simple-link" href='https://it.linkedin.com/in/franco-federico-b361b49?trk=profile-badge'>Franco Federico</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="georg-kostner-769b8118"><a class="LI-simple-link" href='https://it.linkedin.com/in/j%C3%BCrgen-vigna-54023252?trk=profile-badge'>Jürgen Vigna</a></div>

@@ -1,10 +1,10 @@
 ---
 title: Alyvix Mind
-menu: Luca
+menu: Patrick
 image_align: right
 ---
 
-## **Luca** Franzoi
-*Service & Support Engineer*
+## **Patrick** Zambelli
+*Software Consultant*
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="luca-franzoi-593164114"><a class="LI-simple-link" href='https://it.linkedin.com/in/luca-franzoi-593164114?trk=profile-badge'>Luca Franzoi</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="georg-kostner-769b8118"><a class="LI-simple-link" href='https://it.linkedin.com/in/patrick-zambelli-b7127915?trk=profile-badge'>Patrick Zambelli</a></div>
