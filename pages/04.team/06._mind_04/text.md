@@ -1,6 +1,6 @@
 ---
 title: Alyvix Mind
-menu: Jürgen
+menu: Vigna
 image_align: right
 ---
 
