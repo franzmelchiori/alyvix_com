@@ -13,5 +13,5 @@ hero_classes: text-dark overlay-light parallax
 
 Alyvix Server is an **APM software tool** for scaling up visual monitoring.
 
-[**Get Started** with **Alyvix Server 1.2.1**](../?classes=btn,btn-success,btn-lg#plans)
+[**Get Started** with **Alyvix Server 1.3.0**](../?classes=btn,btn-success,btn-lg#plans)
 [**Latest Features**](https://alyvix.com/learn/server/release_notes/release_notes_12.html?classes=btn,btn-primary,btn-lg&target=_blank)
