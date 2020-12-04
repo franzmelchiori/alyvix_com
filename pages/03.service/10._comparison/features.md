@@ -9,10 +9,10 @@ menu: Plans
     <table style="margin-left:auto;margin-right:auto;border-collapse:collapse">
         <tr>
             <th style="background-color:white;"></th>
-            <th><a href="./service#standard">Standard</a></th>
-            <th><a href="./service#professional">Professional</a></th>
-            <th><a href="./service#enterprise">Enterprise</a></th>
-            <th><a href="./service#enterprise-plus">Enterprise Plus</a></th>
+            <th>Standard</a></th>
+            <th>Professional</a></th>
+            <th>Enterprise</a></th>
+            <th>Enterprise Plus</a></th>
         </tr>
         <tr style="background-color:#f8f9fa;">
             <th style="text-align:right;white-space:nowrap;">Alyvix Server<sup>1</sup></th>
