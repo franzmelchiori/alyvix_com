@@ -130,3 +130,5 @@ As Robot runs, it collects timing data for every step whose Measure box was chec
 ### Conclusion
 
 So there you have it, a complete Alyvix test case that runs a full check on one particular task within SAP's Solution Manager. By integrating Alyvix Robot with a monitoring system, you can discover when your business services are slow or fail, often even before your users do. Using a separate test case for each commonly used task, you'll be able to check that all of your important business services are constantly up and running.
+
+<iframe width="288" height="162" src="https://www.youtube.com/embed/qU7Lwwn8Bvc?color=white&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
