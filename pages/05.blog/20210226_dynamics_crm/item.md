@@ -39,7 +39,7 @@ At the same time, we can also tell Alyvix to start up a browser by giving it the
 
 Next we need a similar step, but for the password request panel instead. We have to tell Alyvix where to find the password text field, that it nees to click inside it, and then to type in the password.
 
-In this security-comprised world we of course need to encrypt our credentials to prevent them from being stolen by anyone who can view or copy the .alyvix file. Alyvix was built to easily handle encrypted user names and passwords by providing command-line [encryption and decryption tools](https://www.alyvix.com/blog/20200505_rdc_login). You can find out more on this subject by looking at [our videos](https://www.youtube.com/watch?v=RdvamQAG3oI) specifically about the subject of credentials encryption.
+In this security-comprised world we of course need to encrypt our credentials to prevent them from being stolen by anyone who can view or copy the .alyvix file. Alyvix was built to easily handle encrypted user names and passwords by providing command-line [encryption and decryption tools](https://www.alyvix.com/blog/20200505_rdc_login). You can find out more on this subject by looking at [our videos](https://www.youtube.com/watch?v=sAmV1GVX-Y4) specifically about the subject of credentials encryption.
 
 After receiving the user name and password, Microsoft's Dynamics 365 will ask us if we want to stay signed in. We don't, because then we couldn't measure how long it takes to sign in each time, which is one of the user-centric metrics we're interested in.
 
@@ -135,6 +135,8 @@ Alyvix provides additional output formats that can be used to send this data to 
 
 If you're trying to find availability problems or slowdowns in your Microsoft CRM applications before your users do, you'll want to try Alyvix's visual approach to monitoring. It uses CRM applications' existing graphical interfaces just as users do, in order to check that it's working properly from the user's point of view.
 
-If you'd like to build the Sales Hub test case we've described above in Alyvix, you can follow our [YouTube tutorial]() which shows the details of every step, as well as an example test case execution of the test case on a real demo server.
+If you'd like to build the Sales Hub test case we've described above in Alyvix, you can follow our [YouTube tutorial](https://youtu.be/U_ZqNIvktk8) which shows the details of every step, as well as an example test case execution of the test case on a real demo server.
 
 From simple cases like using Alyvix Robot to manually run a test case whenever you like, all the way to sophisticated integrations with large scale monitoring systems, Alyvix is the right visual monitoring tool for the job.
+
+<iframe width="288" height="162" src="https://www.youtube.com/embed/U_ZqNIvktk8?color=white&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
