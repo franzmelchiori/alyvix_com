@@ -7,4 +7,4 @@ image_align: right
 ## **Luca** Franzoi
 *Support Specialist*
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="luca-franzoi-593164114"><a class="LI-simple-link" href='https://it.linkedin.com/in/luca-franzoi-593164114?trk=profile-badge'>Luca Franzoi</a></div>
+<a href="https://it.linkedin.com/in/luca-franzoi-593164114" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>

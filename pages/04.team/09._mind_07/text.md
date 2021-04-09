@@ -7,4 +7,4 @@ image_align: right
 ## **Charles** Callaway
 *Technical Writer*
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="charles-callaway-248a18181"><a class="LI-simple-link" href='https://it.linkedin.com/in/charles-callaway-248a18181?trk=profile-badge'>Charles Callaway</a></div>
+<a href="https://it.linkedin.com/in/charles-callaway-248a18181" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>

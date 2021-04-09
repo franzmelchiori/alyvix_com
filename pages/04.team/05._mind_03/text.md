@@ -13,6 +13,7 @@ For more than a decade Francesco has had a magnetic interest in signal processin
 He is raising a family in the beautiful Dolomites. He lives the mountain experience all four seasons, constantly looking to get in touch with Mother Nature. Well, that means everything except for the bears.
 --->
 
-<a href="https://twitter.com/franzmelchiori?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @franzmelchiori</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="franzmelchiori"><a class="LI-simple-link" href='https://it.linkedin.com/in/franzmelchiori?trk=profile-badge'>Francesco Melchiori</a></div>
+<!---
+<a href="https://twitter.com/franzmelchiori" target="_blank"><i class="fa fa-twitter fa-3x"></i></a>
+--->
+<a href="https://it.linkedin.com/in/franzmelchiori" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>
