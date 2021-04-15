@@ -18,7 +18,7 @@ In this blog post we'll describe how you can create a panoramic Alyvix test case
 ===
 
 
-# What This Tutorial Does
+## What This Tutorial Does
 
 In this blog post we'll describe how you can create a panoramic Alyvix test case to visually monitor the Sales module of [SalesForce](https://www.salesforce.com/) [Cloud Edition](https://www.salesforce.com/products/sales-cloud/overview/) (Lightning). The idea behind a panoramic check is to quickly look at a large number of shallow tasks to ensure that the many elements within a large software suite are at least functional.
 
