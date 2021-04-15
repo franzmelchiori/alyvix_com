@@ -1,5 +1,5 @@
 ---
-title: Monitoring SalesForce Cloud: a panorama test case
+title: Monitoring SalesForce Cloud: a panoramic test case
 date: 12:00 04/15/2021
 
 hero_classes: parallax text-light title-h1h2 overlay-dark-gradient hero-large
