@@ -98,7 +98,7 @@ At the same time we check for the tab we'll use its close action to also remove 
 
 The main part of our in-depth test case is now over. We can keep the two logout steps from our previous test case in both the Main script and the Exit script, and kill the browser in the Fail script.
 
-If any of the steps above aren't completely clear, you can watch our [YouTube video](https://www.youtube.com/embed/Ykw3oc3Swoo) that shows the steps in full detail.
+If any of the steps above aren't completely clear, you can watch our [YouTube video](https://youtu.be/QyZ-o4KIhZw) that shows the steps in full detail.
 
 
 ## Conclusion
@@ -107,4 +107,4 @@ This test case showed how to monitor SalesForce's Service Console more deeply th
 
 If Alyvix can successfully get through this lengthy test case, it's likely that every part of the Service Console is working. And since you'll probably want to create more than one deep-dive test case, save even more time by copying this Service Console test case and changing just what you need.
 
-<iframe width="288" height="162" src="https://www.youtube.com/embed/Ykw3oc3Swoo?color=white&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="288" height="162" src="https://www.youtube.com/embed/QyZ-o4KIhZw?color=white&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
