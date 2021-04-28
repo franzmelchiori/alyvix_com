@@ -1,6 +1,6 @@
 ---
 title: Deep Visual Monitoring with SalesForce
-date: 12:30 28/04/2021
+date: 15:30 04/28/2021
 
 hero_classes: parallax text-light title-h1h2 overlay-dark-gradient hero-large
 hero_image: alyvix_blog_article_salesforce_cloud.png
